@@ -502,7 +502,7 @@
 	(footprint "MountingHole:MountingHole_2.2mm_M2_DIN965_Pad"
 		(layer "F.Cu")
 		(uuid "2d02e588-b248-4f12-90d1-80432c490cf6")
-		(at 206.905 63)
+		(at 206.9592 62.484)
 		(descr "Mounting Hole 2.2mm, M2, DIN965")
 		(tags "mounting hole 2.2mm m2 din965")
 		(property "Reference" "H3"
@@ -619,7 +619,7 @@
 	(footprint "TerminalBlock:TerminalBlock_MaiXu_MX126-5.0-10P_1x10_P5.00mm"
 		(layer "F.Cu")
 		(uuid "302aa149-0148-438a-8bb6-3d8632d30be2")
-		(at 207 115.5 90)
+		(at 207.0542 114.984 90)
 		(descr "<bound method MaiXu_MX126_Generator.classname_description of <__main__.MaiXu_MX126_Generator object at 0x7ec3e009e810>>, 10 pins, pitch 5mm, size 50.5x7.8mm^2, drill diameter 1.3mm, pad diameter 2.8mm, see https://www.lcsc.com/datasheet/lcsc_datasheet_2309150913_MAX-MX126-5-0-03P-GN01-Cu-S-A_C5188435.pdf, script-generated using https://gitlab.com/kicad/libraries/kicad-footprint-generator/-/tree/master/scripts/TerminalBlock_MaiXu")
 		(tags "THT <bound method MaiXu_MX126_Generator.classname_description of <__main__.MaiXu_MX126_Generator object at 0x7ec3e009e810>> pitch 5mm size 50.5x7.8mm^2 drill 1.3mm pad 2.8mm")
 		(property "Reference" "J1"
@@ -1466,7 +1466,7 @@
 		)
 		(fp_arc
 			(start 45.638712 -1.85392)
-			(mid 45.734863 -1.817952)
+			(mid 45.734863 -1.817951)
 			(end 45.829 -1.777)
 			(stroke
 				(width 0.12)
@@ -1477,7 +1477,7 @@
 		)
 		(fp_arc
 			(start 40.638712 -1.85392)
-			(mid 40.734863 -1.817952)
+			(mid 40.734863 -1.817951)
 			(end 40.829 -1.777)
 			(stroke
 				(width 0.12)
@@ -1488,7 +1488,7 @@
 		)
 		(fp_arc
 			(start 35.638712 -1.85392)
-			(mid 35.734863 -1.817952)
+			(mid 35.734863 -1.817951)
 			(end 35.829 -1.777)
 			(stroke
 				(width 0.12)
@@ -1499,7 +1499,7 @@
 		)
 		(fp_arc
 			(start 30.638712 -1.85392)
-			(mid 30.734863 -1.817952)
+			(mid 30.734863 -1.817951)
 			(end 30.829 -1.777)
 			(stroke
 				(width 0.12)
@@ -1510,7 +1510,7 @@
 		)
 		(fp_arc
 			(start 25.638712 -1.85392)
-			(mid 25.734863 -1.817952)
+			(mid 25.734863 -1.817951)
 			(end 25.829 -1.777)
 			(stroke
 				(width 0.12)
@@ -1521,7 +1521,7 @@
 		)
 		(fp_arc
 			(start 20.638712 -1.85392)
-			(mid 20.734863 -1.817952)
+			(mid 20.734863 -1.817951)
 			(end 20.829 -1.777)
 			(stroke
 				(width 0.12)
@@ -1532,7 +1532,7 @@
 		)
 		(fp_arc
 			(start 15.638712 -1.85392)
-			(mid 15.734863 -1.817952)
+			(mid 15.734863 -1.817951)
 			(end 15.829 -1.777)
 			(stroke
 				(width 0.12)
@@ -1543,7 +1543,7 @@
 		)
 		(fp_arc
 			(start 10.638712 -1.85392)
-			(mid 10.734863 -1.817952)
+			(mid 10.734863 -1.817951)
 			(end 10.829 -1.777)
 			(stroke
 				(width 0.12)
@@ -1554,7 +1554,7 @@
 		)
 		(fp_arc
 			(start 5.638712 -1.85392)
-			(mid 5.734863 -1.817952)
+			(mid 5.734863 -1.817951)
 			(end 5.829 -1.777)
 			(stroke
 				(width 0.12)
@@ -1664,7 +1664,7 @@
 		)
 		(fp_arc
 			(start 45.920652 -1.730826)
-			(mid 45.995273 -1.68902)
+			(mid 45.995274 -1.689022)
 			(end 46.068 -1.644)
 			(stroke
 				(width 0.12)
@@ -1675,7 +1675,7 @@
 		)
 		(fp_arc
 			(start 40.920652 -1.730826)
-			(mid 40.995273 -1.68902)
+			(mid 40.995274 -1.689022)
 			(end 41.068 -1.644)
 			(stroke
 				(width 0.12)
@@ -1686,7 +1686,7 @@
 		)
 		(fp_arc
 			(start 35.920652 -1.730826)
-			(mid 35.995273 -1.68902)
+			(mid 35.995274 -1.689022)
 			(end 36.068 -1.644)
 			(stroke
 				(width 0.12)
@@ -1697,7 +1697,7 @@
 		)
 		(fp_arc
 			(start 30.920652 -1.730826)
-			(mid 30.995273 -1.68902)
+			(mid 30.995274 -1.689022)
 			(end 31.068 -1.644)
 			(stroke
 				(width 0.12)
@@ -1708,7 +1708,7 @@
 		)
 		(fp_arc
 			(start 25.920652 -1.730826)
-			(mid 25.995273 -1.68902)
+			(mid 25.995274 -1.689022)
 			(end 26.068 -1.644)
 			(stroke
 				(width 0.12)
@@ -1719,7 +1719,7 @@
 		)
 		(fp_arc
 			(start 20.920652 -1.730826)
-			(mid 20.995273 -1.68902)
+			(mid 20.995274 -1.689022)
 			(end 21.068 -1.644)
 			(stroke
 				(width 0.12)
@@ -1730,7 +1730,7 @@
 		)
 		(fp_arc
 			(start 15.920652 -1.730826)
-			(mid 15.995273 -1.68902)
+			(mid 15.995274 -1.689022)
 			(end 16.068 -1.644)
 			(stroke
 				(width 0.12)
@@ -1741,7 +1741,7 @@
 		)
 		(fp_arc
 			(start 10.920652 -1.730826)
-			(mid 10.995273 -1.68902)
+			(mid 10.995274 -1.689022)
 			(end 11.068 -1.644)
 			(stroke
 				(width 0.12)
@@ -1752,7 +1752,7 @@
 		)
 		(fp_arc
 			(start 5.920652 -1.730826)
-			(mid 5.995273 -1.68902)
+			(mid 5.995274 -1.689022)
 			(end 6.068 -1.644)
 			(stroke
 				(width 0.12)
@@ -1763,7 +1763,7 @@
 		)
 		(fp_arc
 			(start 43.93363 -1.644317)
-			(mid 44.00637 -1.689264)
+			(mid 44.006369 -1.689267)
 			(end 44.081 -1.731)
 			(stroke
 				(width 0.12)
@@ -1774,7 +1774,7 @@
 		)
 		(fp_arc
 			(start 38.93363 -1.644317)
-			(mid 39.00637 -1.689264)
+			(mid 39.006369 -1.689267)
 			(end 39.081 -1.731)
 			(stroke
 				(width 0.12)
@@ -1785,7 +1785,7 @@
 		)
 		(fp_arc
 			(start 33.93363 -1.644317)
-			(mid 34.00637 -1.689264)
+			(mid 34.006369 -1.689267)
 			(end 34.081 -1.731)
 			(stroke
 				(width 0.12)
@@ -1796,7 +1796,7 @@
 		)
 		(fp_arc
 			(start 28.93363 -1.644317)
-			(mid 29.00637 -1.689264)
+			(mid 29.006369 -1.689267)
 			(end 29.081 -1.731)
 			(stroke
 				(width 0.12)
@@ -1807,7 +1807,7 @@
 		)
 		(fp_arc
 			(start 23.93363 -1.644317)
-			(mid 24.00637 -1.689264)
+			(mid 24.006369 -1.689267)
 			(end 24.081 -1.731)
 			(stroke
 				(width 0.12)
@@ -1818,7 +1818,7 @@
 		)
 		(fp_arc
 			(start 18.93363 -1.644317)
-			(mid 19.00637 -1.689264)
+			(mid 19.006369 -1.689267)
 			(end 19.081 -1.731)
 			(stroke
 				(width 0.12)
@@ -1829,7 +1829,7 @@
 		)
 		(fp_arc
 			(start 13.93363 -1.644317)
-			(mid 14.00637 -1.689264)
+			(mid 14.006369 -1.689267)
 			(end 14.081 -1.731)
 			(stroke
 				(width 0.12)
@@ -1840,7 +1840,7 @@
 		)
 		(fp_arc
 			(start 8.93363 -1.644317)
-			(mid 9.00637 -1.689264)
+			(mid 9.006369 -1.689267)
 			(end 9.081 -1.731)
 			(stroke
 				(width 0.12)
@@ -1851,7 +1851,7 @@
 		)
 		(fp_arc
 			(start 3.93363 -1.644317)
-			(mid 4.00637 -1.689264)
+			(mid 4.006369 -1.689267)
 			(end 4.081 -1.731)
 			(stroke
 				(width 0.12)
@@ -1862,7 +1862,7 @@
 		)
 		(fp_arc
 			(start 46.096479 -1.625751)
-			(mid 46.166349 -1.576376)
+			(mid 46.166348 -1.576374)
 			(end 46.234 -1.524)
 			(stroke
 				(width 0.12)
@@ -1873,7 +1873,7 @@
 		)
 		(fp_arc
 			(start 41.096479 -1.625751)
-			(mid 41.166349 -1.576376)
+			(mid 41.166348 -1.576374)
 			(end 41.234 -1.524)
 			(stroke
 				(width 0.12)
@@ -1884,7 +1884,7 @@
 		)
 		(fp_arc
 			(start 36.096479 -1.625751)
-			(mid 36.166349 -1.576376)
+			(mid 36.166348 -1.576374)
 			(end 36.234 -1.524)
 			(stroke
 				(width 0.12)
@@ -1895,7 +1895,7 @@
 		)
 		(fp_arc
 			(start 31.096479 -1.625751)
-			(mid 31.166349 -1.576376)
+			(mid 31.166348 -1.576374)
 			(end 31.234 -1.524)
 			(stroke
 				(width 0.12)
@@ -1906,7 +1906,7 @@
 		)
 		(fp_arc
 			(start 26.096479 -1.625751)
-			(mid 26.166349 -1.576376)
+			(mid 26.166348 -1.576374)
 			(end 26.234 -1.524)
 			(stroke
 				(width 0.12)
@@ -1917,7 +1917,7 @@
 		)
 		(fp_arc
 			(start 21.096479 -1.625751)
-			(mid 21.166349 -1.576376)
+			(mid 21.166348 -1.576374)
 			(end 21.234 -1.524)
 			(stroke
 				(width 0.12)
@@ -1928,7 +1928,7 @@
 		)
 		(fp_arc
 			(start 16.096479 -1.625751)
-			(mid 16.166349 -1.576376)
+			(mid 16.166348 -1.576374)
 			(end 16.234 -1.524)
 			(stroke
 				(width 0.12)
@@ -1939,7 +1939,7 @@
 		)
 		(fp_arc
 			(start 11.096479 -1.625751)
-			(mid 11.166349 -1.576376)
+			(mid 11.166348 -1.576374)
 			(end 11.234 -1.524)
 			(stroke
 				(width 0.12)
@@ -1950,7 +1950,7 @@
 		)
 		(fp_arc
 			(start 6.096479 -1.625751)
-			(mid 6.166349 -1.576376)
+			(mid 6.166348 -1.576374)
 			(end 6.234 -1.524)
 			(stroke
 				(width 0.12)
@@ -2357,7 +2357,7 @@
 		)
 		(fp_arc
 			(start 43.521202 -1.287012)
-			(mid 43.578748 -1.350292)
+			(mid 43.578747 -1.350293)
 			(end 43.639 -1.411)
 			(stroke
 				(width 0.12)
@@ -2368,7 +2368,7 @@
 		)
 		(fp_arc
 			(start 38.521202 -1.287012)
-			(mid 38.578748 -1.350292)
+			(mid 38.578747 -1.350293)
 			(end 38.639 -1.411)
 			(stroke
 				(width 0.12)
@@ -2379,7 +2379,7 @@
 		)
 		(fp_arc
 			(start 33.521202 -1.287012)
-			(mid 33.578748 -1.350292)
+			(mid 33.578747 -1.350293)
 			(end 33.639 -1.411)
 			(stroke
 				(width 0.12)
@@ -2390,7 +2390,7 @@
 		)
 		(fp_arc
 			(start 28.521202 -1.287012)
-			(mid 28.578748 -1.350292)
+			(mid 28.578747 -1.350293)
 			(end 28.639 -1.411)
 			(stroke
 				(width 0.12)
@@ -2401,7 +2401,7 @@
 		)
 		(fp_arc
 			(start 23.521202 -1.287012)
-			(mid 23.578748 -1.350292)
+			(mid 23.578747 -1.350293)
 			(end 23.639 -1.411)
 			(stroke
 				(width 0.12)
@@ -2412,7 +2412,7 @@
 		)
 		(fp_arc
 			(start 18.521202 -1.287012)
-			(mid 18.578748 -1.350292)
+			(mid 18.578747 -1.350293)
 			(end 18.639 -1.411)
 			(stroke
 				(width 0.12)
@@ -2423,7 +2423,7 @@
 		)
 		(fp_arc
 			(start 13.521202 -1.287012)
-			(mid 13.578748 -1.350292)
+			(mid 13.578747 -1.350293)
 			(end 13.639 -1.411)
 			(stroke
 				(width 0.12)
@@ -2434,7 +2434,7 @@
 		)
 		(fp_arc
 			(start 8.521202 -1.287012)
-			(mid 8.578748 -1.350292)
+			(mid 8.578747 -1.350293)
 			(end 8.639 -1.411)
 			(stroke
 				(width 0.12)
@@ -2445,7 +2445,7 @@
 		)
 		(fp_arc
 			(start 3.521202 -1.287012)
-			(mid 3.578748 -1.350292)
+			(mid 3.578747 -1.350293)
 			(end 3.639 -1.411)
 			(stroke
 				(width 0.12)
@@ -2874,7 +2874,7 @@
 		)
 		(fp_arc
 			(start 46.566102 1.179628)
-			(mid 46.523978 1.233565)
+			(mid 46.523978 1.233564)
 			(end 46.48 1.286)
 			(stroke
 				(width 0.12)
@@ -2885,7 +2885,7 @@
 		)
 		(fp_arc
 			(start 41.566102 1.179628)
-			(mid 41.523978 1.233565)
+			(mid 41.523978 1.233564)
 			(end 41.48 1.286)
 			(stroke
 				(width 0.12)
@@ -2896,7 +2896,7 @@
 		)
 		(fp_arc
 			(start 36.566102 1.179628)
-			(mid 36.523978 1.233565)
+			(mid 36.523978 1.233564)
 			(end 36.48 1.286)
 			(stroke
 				(width 0.12)
@@ -2907,7 +2907,7 @@
 		)
 		(fp_arc
 			(start 31.566102 1.179628)
-			(mid 31.523978 1.233565)
+			(mid 31.523978 1.233564)
 			(end 31.48 1.286)
 			(stroke
 				(width 0.12)
@@ -2918,7 +2918,7 @@
 		)
 		(fp_arc
 			(start 26.566102 1.179628)
-			(mid 26.523978 1.233565)
+			(mid 26.523978 1.233564)
 			(end 26.48 1.286)
 			(stroke
 				(width 0.12)
@@ -2929,7 +2929,7 @@
 		)
 		(fp_arc
 			(start 21.566102 1.179628)
-			(mid 21.523978 1.233565)
+			(mid 21.523978 1.233564)
 			(end 21.48 1.286)
 			(stroke
 				(width 0.12)
@@ -2940,7 +2940,7 @@
 		)
 		(fp_arc
 			(start 16.566102 1.179628)
-			(mid 16.523978 1.233565)
+			(mid 16.523978 1.233564)
 			(end 16.48 1.286)
 			(stroke
 				(width 0.12)
@@ -2951,7 +2951,7 @@
 		)
 		(fp_arc
 			(start 11.566102 1.179628)
-			(mid 11.523978 1.233565)
+			(mid 11.523978 1.233564)
 			(end 11.48 1.286)
 			(stroke
 				(width 0.12)
@@ -2962,7 +2962,7 @@
 		)
 		(fp_arc
 			(start 6.566102 1.179628)
-			(mid 6.523978 1.233565)
+			(mid 6.523978 1.233564)
 			(end 6.48 1.286)
 			(stroke
 				(width 0.12)
@@ -3072,7 +3072,7 @@
 		)
 		(fp_arc
 			(start 43.521125 1.286294)
-			(mid 43.477135 1.233898)
+			(mid 43.477135 1.233899)
 			(end 43.435 1.18)
 			(stroke
 				(width 0.12)
@@ -3083,7 +3083,7 @@
 		)
 		(fp_arc
 			(start 38.521125 1.286294)
-			(mid 38.477135 1.233898)
+			(mid 38.477135 1.233899)
 			(end 38.435 1.18)
 			(stroke
 				(width 0.12)
@@ -3094,7 +3094,7 @@
 		)
 		(fp_arc
 			(start 33.521125 1.286294)
-			(mid 33.477135 1.233898)
+			(mid 33.477135 1.233899)
 			(end 33.435 1.18)
 			(stroke
 				(width 0.12)
@@ -3105,7 +3105,7 @@
 		)
 		(fp_arc
 			(start 28.521125 1.286294)
-			(mid 28.477135 1.233898)
+			(mid 28.477135 1.233899)
 			(end 28.435 1.18)
 			(stroke
 				(width 0.12)
@@ -3116,7 +3116,7 @@
 		)
 		(fp_arc
 			(start 23.521125 1.286294)
-			(mid 23.477135 1.233898)
+			(mid 23.477135 1.233899)
 			(end 23.435 1.18)
 			(stroke
 				(width 0.12)
@@ -3127,7 +3127,7 @@
 		)
 		(fp_arc
 			(start 18.521125 1.286294)
-			(mid 18.477135 1.233898)
+			(mid 18.477135 1.233899)
 			(end 18.435 1.18)
 			(stroke
 				(width 0.12)
@@ -3138,7 +3138,7 @@
 		)
 		(fp_arc
 			(start 13.521125 1.286294)
-			(mid 13.477135 1.233898)
+			(mid 13.477135 1.233899)
 			(end 13.435 1.18)
 			(stroke
 				(width 0.12)
@@ -3149,7 +3149,7 @@
 		)
 		(fp_arc
 			(start 8.521125 1.286294)
-			(mid 8.477135 1.233898)
+			(mid 8.477135 1.233899)
 			(end 8.435 1.18)
 			(stroke
 				(width 0.12)
@@ -3160,7 +3160,7 @@
 		)
 		(fp_arc
 			(start 3.521125 1.286294)
-			(mid 3.477135 1.233898)
+			(mid 3.477135 1.233899)
 			(end 3.435 1.18)
 			(stroke
 				(width 0.12)
@@ -3270,7 +3270,7 @@
 		)
 		(fp_arc
 			(start 46.36213 1.410651)
-			(mid 46.299301 1.468722)
+			(mid 46.2993 1.468721)
 			(end 46.234 1.524)
 			(stroke
 				(width 0.12)
@@ -3281,7 +3281,7 @@
 		)
 		(fp_arc
 			(start 41.36213 1.410651)
-			(mid 41.299301 1.468722)
+			(mid 41.2993 1.468721)
 			(end 41.234 1.524)
 			(stroke
 				(width 0.12)
@@ -3292,7 +3292,7 @@
 		)
 		(fp_arc
 			(start 36.36213 1.410651)
-			(mid 36.299301 1.468722)
+			(mid 36.2993 1.468721)
 			(end 36.234 1.524)
 			(stroke
 				(width 0.12)
@@ -3303,7 +3303,7 @@
 		)
 		(fp_arc
 			(start 31.36213 1.410651)
-			(mid 31.299301 1.468722)
+			(mid 31.2993 1.468721)
 			(end 31.234 1.524)
 			(stroke
 				(width 0.12)
@@ -3314,7 +3314,7 @@
 		)
 		(fp_arc
 			(start 26.36213 1.410651)
-			(mid 26.299301 1.468722)
+			(mid 26.2993 1.468721)
 			(end 26.234 1.524)
 			(stroke
 				(width 0.12)
@@ -3325,7 +3325,7 @@
 		)
 		(fp_arc
 			(start 21.36213 1.410651)
-			(mid 21.299301 1.468722)
+			(mid 21.2993 1.468721)
 			(end 21.234 1.524)
 			(stroke
 				(width 0.12)
@@ -3336,7 +3336,7 @@
 		)
 		(fp_arc
 			(start 16.36213 1.410651)
-			(mid 16.299301 1.468722)
+			(mid 16.2993 1.468721)
 			(end 16.234 1.524)
 			(stroke
 				(width 0.12)
@@ -3347,7 +3347,7 @@
 		)
 		(fp_arc
 			(start 11.36213 1.410651)
-			(mid 11.299301 1.468722)
+			(mid 11.2993 1.468721)
 			(end 11.234 1.524)
 			(stroke
 				(width 0.12)
@@ -3358,7 +3358,7 @@
 		)
 		(fp_arc
 			(start 6.36213 1.410651)
-			(mid 6.299301 1.468722)
+			(mid 6.2993 1.468721)
 			(end 6.234 1.524)
 			(stroke
 				(width 0.12)
@@ -3468,7 +3468,7 @@
 		)
 		(fp_arc
 			(start 46.233457 1.523294)
-			(mid 46.165839 1.575648)
+			(mid 46.16584 1.575649)
 			(end 46.096 1.625)
 			(stroke
 				(width 0.12)
@@ -3479,7 +3479,7 @@
 		)
 		(fp_arc
 			(start 41.233457 1.523294)
-			(mid 41.165839 1.575648)
+			(mid 41.16584 1.575649)
 			(end 41.096 1.625)
 			(stroke
 				(width 0.12)
@@ -3490,7 +3490,7 @@
 		)
 		(fp_arc
 			(start 36.233457 1.523294)
-			(mid 36.165839 1.575648)
+			(mid 36.16584 1.575649)
 			(end 36.096 1.625)
 			(stroke
 				(width 0.12)
@@ -3501,7 +3501,7 @@
 		)
 		(fp_arc
 			(start 31.233457 1.523294)
-			(mid 31.165839 1.575648)
+			(mid 31.16584 1.575649)
 			(end 31.096 1.625)
 			(stroke
 				(width 0.12)
@@ -3512,7 +3512,7 @@
 		)
 		(fp_arc
 			(start 26.233457 1.523294)
-			(mid 26.165839 1.575648)
+			(mid 26.16584 1.575649)
 			(end 26.096 1.625)
 			(stroke
 				(width 0.12)
@@ -3523,7 +3523,7 @@
 		)
 		(fp_arc
 			(start 21.233457 1.523294)
-			(mid 21.165839 1.575648)
+			(mid 21.16584 1.575649)
 			(end 21.096 1.625)
 			(stroke
 				(width 0.12)
@@ -3534,7 +3534,7 @@
 		)
 		(fp_arc
 			(start 16.233457 1.523294)
-			(mid 16.165839 1.575648)
+			(mid 16.16584 1.575649)
 			(end 16.096 1.625)
 			(stroke
 				(width 0.12)
@@ -3545,7 +3545,7 @@
 		)
 		(fp_arc
 			(start 11.233457 1.523294)
-			(mid 11.165839 1.575648)
+			(mid 11.16584 1.575649)
 			(end 11.096 1.625)
 			(stroke
 				(width 0.12)
@@ -3556,7 +3556,7 @@
 		)
 		(fp_arc
 			(start 6.233457 1.523294)
-			(mid 6.165839 1.575648)
+			(mid 6.16584 1.575649)
 			(end 6.096 1.625)
 			(stroke
 				(width 0.12)
@@ -3765,7 +3765,7 @@
 		)
 		(fp_arc
 			(start 44.080344 1.730739)
-			(mid 44.005725 1.688977)
+			(mid 44.005725 1.688978)
 			(end 43.933 1.644)
 			(stroke
 				(width 0.12)
@@ -3776,7 +3776,7 @@
 		)
 		(fp_arc
 			(start 39.080344 1.730739)
-			(mid 39.005725 1.688977)
+			(mid 39.005725 1.688978)
 			(end 38.933 1.644)
 			(stroke
 				(width 0.12)
@@ -3787,7 +3787,7 @@
 		)
 		(fp_arc
 			(start 34.080344 1.730739)
-			(mid 34.005725 1.688977)
+			(mid 34.005725 1.688978)
 			(end 33.933 1.644)
 			(stroke
 				(width 0.12)
@@ -3798,7 +3798,7 @@
 		)
 		(fp_arc
 			(start 29.080344 1.730739)
-			(mid 29.005725 1.688977)
+			(mid 29.005725 1.688978)
 			(end 28.933 1.644)
 			(stroke
 				(width 0.12)
@@ -3809,7 +3809,7 @@
 		)
 		(fp_arc
 			(start 24.080344 1.730739)
-			(mid 24.005725 1.688977)
+			(mid 24.005725 1.688978)
 			(end 23.933 1.644)
 			(stroke
 				(width 0.12)
@@ -3820,7 +3820,7 @@
 		)
 		(fp_arc
 			(start 19.080344 1.730739)
-			(mid 19.005725 1.688977)
+			(mid 19.005725 1.688978)
 			(end 18.933 1.644)
 			(stroke
 				(width 0.12)
@@ -3831,7 +3831,7 @@
 		)
 		(fp_arc
 			(start 14.080344 1.730739)
-			(mid 14.005725 1.688977)
+			(mid 14.005725 1.688978)
 			(end 13.933 1.644)
 			(stroke
 				(width 0.12)
@@ -3842,7 +3842,7 @@
 		)
 		(fp_arc
 			(start 9.080344 1.730739)
-			(mid 9.005725 1.688977)
+			(mid 9.005725 1.688978)
 			(end 8.933 1.644)
 			(stroke
 				(width 0.12)
@@ -3853,7 +3853,7 @@
 		)
 		(fp_arc
 			(start 4.080344 1.730739)
-			(mid 4.005725 1.688977)
+			(mid 4.005725 1.688978)
 			(end 3.933 1.644)
 			(stroke
 				(width 0.12)
@@ -3864,7 +3864,7 @@
 		)
 		(fp_arc
 			(start 45.829295 1.77705)
-			(mid 45.735154 1.818015)
+			(mid 45.735155 1.818016)
 			(end 45.639 1.854)
 			(stroke
 				(width 0.12)
@@ -3875,7 +3875,7 @@
 		)
 		(fp_arc
 			(start 40.829295 1.77705)
-			(mid 40.735154 1.818015)
+			(mid 40.735155 1.818016)
 			(end 40.639 1.854)
 			(stroke
 				(width 0.12)
@@ -3886,7 +3886,7 @@
 		)
 		(fp_arc
 			(start 35.829295 1.77705)
-			(mid 35.735154 1.818015)
+			(mid 35.735155 1.818016)
 			(end 35.639 1.854)
 			(stroke
 				(width 0.12)
@@ -3897,7 +3897,7 @@
 		)
 		(fp_arc
 			(start 30.829295 1.77705)
-			(mid 30.735154 1.818015)
+			(mid 30.735155 1.818016)
 			(end 30.639 1.854)
 			(stroke
 				(width 0.12)
@@ -3908,7 +3908,7 @@
 		)
 		(fp_arc
 			(start 25.829295 1.77705)
-			(mid 25.735154 1.818015)
+			(mid 25.735155 1.818016)
 			(end 25.639 1.854)
 			(stroke
 				(width 0.12)
@@ -3919,7 +3919,7 @@
 		)
 		(fp_arc
 			(start 20.829295 1.77705)
-			(mid 20.735154 1.818015)
+			(mid 20.735155 1.818016)
 			(end 20.639 1.854)
 			(stroke
 				(width 0.12)
@@ -3930,7 +3930,7 @@
 		)
 		(fp_arc
 			(start 15.829295 1.77705)
-			(mid 15.735154 1.818015)
+			(mid 15.735155 1.818016)
 			(end 15.639 1.854)
 			(stroke
 				(width 0.12)
@@ -3941,7 +3941,7 @@
 		)
 		(fp_arc
 			(start 10.829295 1.77705)
-			(mid 10.735154 1.818015)
+			(mid 10.735155 1.818016)
 			(end 10.639 1.854)
 			(stroke
 				(width 0.12)
@@ -3952,7 +3952,7 @@
 		)
 		(fp_arc
 			(start 5.829295 1.77705)
-			(mid 5.735154 1.818015)
+			(mid 5.735155 1.818016)
 			(end 5.639 1.854)
 			(stroke
 				(width 0.12)
@@ -4183,7 +4183,7 @@
 		)
 		(fp_arc
 			(start 45.000479 1.960685)
-			(mid 44.744554 1.943974)
+			(mid 44.744554 1.943973)
 			(end 44.493 1.894)
 			(stroke
 				(width 0.12)
@@ -4194,7 +4194,7 @@
 		)
 		(fp_arc
 			(start 40.000479 1.960685)
-			(mid 39.744554 1.943974)
+			(mid 39.744554 1.943973)
 			(end 39.493 1.894)
 			(stroke
 				(width 0.12)
@@ -4205,7 +4205,7 @@
 		)
 		(fp_arc
 			(start 35.000479 1.960685)
-			(mid 34.744554 1.943974)
+			(mid 34.744554 1.943973)
 			(end 34.493 1.894)
 			(stroke
 				(width 0.12)
@@ -4216,7 +4216,7 @@
 		)
 		(fp_arc
 			(start 30.000479 1.960685)
-			(mid 29.744554 1.943974)
+			(mid 29.744554 1.943973)
 			(end 29.493 1.894)
 			(stroke
 				(width 0.12)
@@ -4227,7 +4227,7 @@
 		)
 		(fp_arc
 			(start 25.000479 1.960685)
-			(mid 24.744554 1.943974)
+			(mid 24.744554 1.943973)
 			(end 24.493 1.894)
 			(stroke
 				(width 0.12)
@@ -4238,7 +4238,7 @@
 		)
 		(fp_arc
 			(start 20.000479 1.960685)
-			(mid 19.744554 1.943974)
+			(mid 19.744554 1.943973)
 			(end 19.493 1.894)
 			(stroke
 				(width 0.12)
@@ -4249,7 +4249,7 @@
 		)
 		(fp_arc
 			(start 15.000479 1.960685)
-			(mid 14.744554 1.943974)
+			(mid 14.744554 1.943973)
 			(end 14.493 1.894)
 			(stroke
 				(width 0.12)
@@ -4260,7 +4260,7 @@
 		)
 		(fp_arc
 			(start 10.000479 1.960685)
-			(mid 9.744554 1.943974)
+			(mid 9.744554 1.943973)
 			(end 9.493 1.894)
 			(stroke
 				(width 0.12)
@@ -4271,7 +4271,7 @@
 		)
 		(fp_arc
 			(start 5.000479 1.960685)
-			(mid 4.744554 1.943974)
+			(mid 4.744554 1.943973)
 			(end 4.493 1.894)
 			(stroke
 				(width 0.12)
@@ -4841,6 +4841,1469 @@
 			(rotate
 				(xyz 0 0 0)
 			)
+		)
+	)
+	(footprint "TerminalBlock:TerminalBlock_MaiXu_MX126-5.0-02P_1x02_P5.00mm"
+		(layer "F.Cu")
+		(uuid "40bdf51f-ea12-4a75-9147-415cbe097514")
+		(at 197.104 70.0024 180)
+		(descr "<bound method MaiXu_MX126_Generator.classname_description of <__main__.MaiXu_MX126_Generator object at 0x7ec3e009e810>>, 2 pins, pitch 5mm, size 10.5x7.8mm^2, drill diameter 1.3mm, pad diameter 2.8mm, see https://www.lcsc.com/datasheet/lcsc_datasheet_2309150913_MAX-MX126-5-0-03P-GN01-Cu-S-A_C5188435.pdf, script-generated using https://gitlab.com/kicad/libraries/kicad-footprint-generator/-/tree/master/scripts/TerminalBlock_MaiXu")
+		(tags "THT <bound method MaiXu_MX126_Generator.classname_description of <__main__.MaiXu_MX126_Generator object at 0x7ec3e009e810>> pitch 5mm size 10.5x7.8mm^2 drill 1.3mm pad 2.8mm")
+		(property "Reference" "J6"
+			(at 2.25 -5.12 360)
+			(layer "F.SilkS")
+			(uuid "1f20e168-df8a-4169-ab24-2d28141c2dc7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "Screw_Terminal_01x02"
+			(at 2.25 4.92 360)
+			(layer "F.Fab")
+			(uuid "f5c37768-1278-4b5c-b5d1-6bcbdca9b2be")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Footprint" "TerminalBlock:TerminalBlock_MaiXu_MX126-5.0-02P_1x02_P5.00mm"
+			(at 0 0 360)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "aa81b7d5-2290-4253-ac42-beb6cd020a2a")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 360)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "82571064-349c-473c-9055-8e170732719a")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 0 0 360)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4998e324-d1cf-4dc3-b0c9-856211564126")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property ki_fp_filters "TerminalBlock*:*")
+		(path "/fbd5cbac-c703-4df8-93c6-612ed9432415")
+		(sheetname "Root")
+		(sheetfile "Robosub_PDP.kicad_sch")
+		(attr through_hole)
+		(fp_line
+			(start 7.62 -4.12)
+			(end 7.62 3.92)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "9a4f4d0e-b0fc-43cb-a419-a68b16384bc3")
+		)
+		(fp_line
+			(start 6.836 0.5)
+			(end 7.62 0.5)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "e1ca6dd0-4a29-41e8-8dda-d4fe925efe31")
+		)
+		(fp_line
+			(start 6.836 -0.5)
+			(end 7.62 -0.5)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "22d42560-65f0-4f7f-8fb4-27b996761aa6")
+		)
+		(fp_line
+			(start 6.487 -1.248)
+			(end 6.487 -1.248)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "6667cb0a-072d-4fa5-8e24-e4b9d0b38058")
+		)
+		(fp_line
+			(start 5.67 1.8)
+			(end 7.62 1.8)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "72dc0907-bb17-4f9e-91a7-dcc671928f34")
+		)
+		(fp_line
+			(start 3.514 1.248)
+			(end 3.514 1.248)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "70c87af7-6713-442c-96d7-b1b563a4dc50")
+		)
+		(fp_line
+			(start 1.88 1.8)
+			(end 4.331 1.8)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "d08bf738-6699-40be-9490-a77aba5d5517")
+		)
+		(fp_line
+			(start 1.88 0.5)
+			(end 3.165 0.5)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "17b764dc-92ec-44ee-abbc-e332237dbfec")
+		)
+		(fp_line
+			(start 1.88 -0.5)
+			(end 3.165 -0.5)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "345196a7-5230-4ed8-8794-b47736ce06fc")
+		)
+		(fp_line
+			(start -3.12 3.92)
+			(end 7.62 3.92)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "e3a05e32-fb13-43a6-b4b0-2a93ae666f2f")
+		)
+		(fp_line
+			(start -3.12 1.8)
+			(end -1.88 1.8)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "8b22c4c5-eb8b-42e8-b64f-f604263162b4")
+		)
+		(fp_line
+			(start -3.12 0.5)
+			(end -1.88 0.5)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "20187cc0-631a-440b-852e-692fa4fcc577")
+		)
+		(fp_line
+			(start -3.12 -0.5)
+			(end -1.88 -0.5)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "e242b3e6-7f6e-43f7-8ec0-dc95bf5c909a")
+		)
+		(fp_line
+			(start -3.12 -4.12)
+			(end 7.62 -4.12)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "71ecc2d8-a9ad-4ee7-926a-333c6510436e")
+		)
+		(fp_line
+			(start -3.12 -4.12)
+			(end -3.12 3.92)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "cb78a850-c887-47b2-87e0-7af3a9b86ebd")
+		)
+		(fp_line
+			(start -3.36 4.16)
+			(end -1.41 4.16)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "4b644613-b5cf-4c60-85be-86ba76f355fb")
+		)
+		(fp_line
+			(start -3.36 1.97)
+			(end -3.36 4.16)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "5fe15c62-8d4c-4dc4-bfe5-365206609cd3")
+		)
+		(fp_arc
+			(start 6.566102 1.179628)
+			(mid 6.523978 1.233565)
+			(end 6.48 1.286)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "6542c181-cc01-4a95-a95f-84e93b3bc33b")
+		)
+		(fp_arc
+			(start 6.565937 -1.180084)
+			(mid 6.960805 -0.000052)
+			(end 6.566 1.18)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "c17970d9-aa66-4ba4-a164-c090521662aa")
+		)
+		(fp_arc
+			(start 6.479873 -1.286364)
+			(mid 6.523865 -1.233934)
+			(end 6.566 -1.18)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "253a4d17-8fb7-47d2-b03b-599859738fd6")
+		)
+		(fp_arc
+			(start 6.479707 1.285928)
+			(mid 6.422207 1.349248)
+			(end 6.362 1.41)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "574c5c2a-4172-41b3-bf26-3ab6fa9f764c")
+		)
+		(fp_arc
+			(start 6.362286 -1.410097)
+			(mid 6.422497 -1.349333)
+			(end 6.48 -1.286)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "fc24200c-c3e7-4c56-a8ea-a6ef772117c7")
+		)
+		(fp_arc
+			(start 6.36213 1.410651)
+			(mid 6.299301 1.468722)
+			(end 6.234 1.524)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "0ea5ff2c-d494-4413-ab58-c6a3757b375c")
+		)
+		(fp_arc
+			(start 6.233928 -1.523341)
+			(mid 6.2992 -1.468068)
+			(end 6.362 -1.41)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "4b545782-6a71-465c-8331-3fd89795e2b8")
+		)
+		(fp_arc
+			(start 6.233457 1.523294)
+			(mid 6.165839 1.575648)
+			(end 6.096 1.625)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "6330c9a1-6c08-4110-bd08-d3fdb91827f5")
+		)
+		(fp_arc
+			(start 6.096479 -1.625751)
+			(mid 6.166349 -1.576376)
+			(end 6.234 -1.524)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "0952e934-438c-42cc-937e-c603824c35a1")
+		)
+		(fp_arc
+			(start 6.068362 1.644143)
+			(mid 5.995629 1.689179)
+			(end 5.921 1.731)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "9bc66859-d80d-4bf5-8690-0f056810f07e")
+		)
+		(fp_arc
+			(start 5.920652 -1.730826)
+			(mid 5.995273 -1.68902)
+			(end 6.068 -1.644)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "3beda181-e182-40d9-a97d-e48818e7a7ed")
+		)
+		(fp_arc
+			(start 5.829295 1.77705)
+			(mid 5.735154 1.818015)
+			(end 5.639 1.854)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "804d747d-9a16-4a71-bf17-6b143ace60a7")
+		)
+		(fp_arc
+			(start 5.638712 -1.85392)
+			(mid 5.734863 -1.817952)
+			(end 5.829 -1.777)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "9231bea4-2ec4-4b1c-9ddb-d3c6b46aa550")
+		)
+		(fp_arc
+			(start 5.507285 1.893215)
+			(mid 5.255831 1.943232)
+			(end 5 1.96)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "ae591cd9-172a-4205-beee-a7609de4be6d")
+		)
+		(fp_arc
+			(start 5.000487 -1.960944)
+			(mid 5.256437 -1.944104)
+			(end 5.508 -1.894)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "53529b02-b157-497a-804a-1d9cbb60af40")
+		)
+		(fp_arc
+			(start 5.000479 1.960685)
+			(mid 4.744554 1.943974)
+			(end 4.493 1.894)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "a2e93d79-fe30-4e9c-a94c-289e0458b972")
+		)
+		(fp_arc
+			(start 4.493681 -1.893473)
+			(mid 4.74516 -1.943362)
+			(end 5.001 -1.96)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "cc1e68bc-51cb-4f37-969a-58aa1c63da0b")
+		)
+		(fp_arc
+			(start 4.362283 1.853815)
+			(mid 4.266136 1.817899)
+			(end 4.172 1.777)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "01bd2ba5-cc8f-4dd5-9762-a269ca2906f4")
+		)
+		(fp_arc
+			(start 4.172694 -1.777259)
+			(mid 4.266842 -1.818121)
+			(end 4.363 -1.854)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "08e84250-8b43-4e23-a6e5-07af63964758")
+		)
+		(fp_arc
+			(start 4.080344 1.730739)
+			(mid 4.005725 1.688977)
+			(end 3.933 1.644)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "ab69ee8c-043a-4473-bafc-c8d4dd3d29a9")
+		)
+		(fp_arc
+			(start 3.93363 -1.644317)
+			(mid 4.00637 -1.689264)
+			(end 4.081 -1.731)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "842fb0b7-e723-4bcf-8625-2125aac62206")
+		)
+		(fp_arc
+			(start 3.904517 1.625664)
+			(mid 3.834649 1.576332)
+			(end 3.767 1.524)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "8406dd17-46c1-4897-b96f-0796f5e68588")
+		)
+		(fp_arc
+			(start 3.767452 -1.524377)
+			(mid 3.835117 -1.576689)
+			(end 3.905 -1.626)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "6968da5b-f614-4085-afde-4f6dad4433bc")
+		)
+		(fp_arc
+			(start 3.767069 1.523253)
+			(mid 3.701799 1.468024)
+			(end 3.639 1.41)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "23397d45-90b9-45d1-b0cd-c681662b3e7e")
+		)
+		(fp_arc
+			(start 3.638867 -1.410738)
+			(mid 3.701698 -1.468767)
+			(end 3.767 -1.524)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "18f4970d-010a-4e23-87b6-659572804ba5")
+		)
+		(fp_arc
+			(start 3.63871 1.41001)
+			(mid 3.578502 1.349289)
+			(end 3.521 1.286)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "a63527e8-f530-4791-858d-69cddf4b9364")
+		)
+		(fp_arc
+			(start 3.521202 -1.287012)
+			(mid 3.578748 -1.350292)
+			(end 3.639 -1.411)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "7061a8d7-7667-411a-a80e-485a05750f81")
+		)
+		(fp_arc
+			(start 3.521125 1.286294)
+			(mid 3.477135 1.233898)
+			(end 3.435 1.18)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "4a1efcce-f3ce-4fc5-9db4-273fdad8b2a8")
+		)
+		(fp_arc
+			(start 3.434826 -1.180695)
+			(mid 3.476985 -1.2346)
+			(end 3.521 -1.287)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "c8e2345d-3aa3-4069-8f11-de8abc2bb906")
+		)
+		(fp_arc
+			(start 3.434339 1.179122)
+			(mid 3.039994 -0.00055)
+			(end 3.435 -1.18)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "84e679e2-ed0d-4177-9b02-f4c3e7919959")
+		)
+		(fp_arc
+			(start 1.875422 -0.572619)
+			(mid 1.960893 0.000722)
+			(end 1.875 0.574)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "e946b902-1643-4768-8cc2-c88f1122cd97")
+		)
+		(fp_arc
+			(start 0.573049 1.874357)
+			(mid 0.289707 1.938471)
+			(end 0 1.96)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "da9025d3-857d-418c-a49b-69106fa7ea0c")
+		)
+		(fp_arc
+			(start 0.0335 1.960607)
+			(mid -0.273619 1.941709)
+			(end -0.574 1.875)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "6c26f744-43eb-412c-8ed0-ebf6c669603c")
+		)
+		(fp_arc
+			(start -0.572619 -1.875422)
+			(mid 0.000722 -1.960893)
+			(end 0.574 -1.875)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "1564f860-a46f-470d-9374-17fa6d027b60")
+		)
+		(fp_arc
+			(start -1.875422 0.572619)
+			(mid -1.960893 -0.000722)
+			(end -1.875 -0.574)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "a1593c0c-9ae9-4f9d-b968-9135ff1d12c5")
+		)
+		(fp_line
+			(start 8 4.31)
+			(end 8 -4.5)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "bb4e6215-ba9a-42cc-8039-f1182dac579f")
+		)
+		(fp_line
+			(start 8 -4.5)
+			(end -3.5 -4.5)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "e7c1449b-9f72-40af-ace4-e81b9be4f4be")
+		)
+		(fp_line
+			(start -3.5 4.31)
+			(end 8 4.31)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "aa091567-06d2-4cb6-8fd2-790e6a8dc959")
+		)
+		(fp_line
+			(start -3.5 -4.5)
+			(end -3.5 4.31)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "8482f7cd-378a-4418-9753-867695703ef3")
+		)
+		(fp_line
+			(start 7.5 3.8)
+			(end -1.05 3.8)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "eac55be9-6675-4c85-b5d7-7f649266dde0")
+		)
+		(fp_line
+			(start 7.5 -4)
+			(end 7.5 3.8)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "e23940ad-a42d-4070-a025-1e1dfb4c632b")
+		)
+		(fp_line
+			(start 6.214 -1.019)
+			(end 3.982 1.214)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "f76246ba-e3a6-4e73-83ad-4d13ddf33503")
+		)
+		(fp_line
+			(start 6.019 -1.214)
+			(end 3.787 1.018)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "8dbdbb80-080d-4d73-b187-9dd7a3924176")
+		)
+		(fp_line
+			(start 1.214 -1.019)
+			(end -1.019 1.214)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "8fdc537f-5ae1-4115-a26a-ad1d37ba453c")
+		)
+		(fp_line
+			(start 1.019 -1.214)
+			(end -1.214 1.018)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "b2ebedda-7c47-4dcb-b114-08463a475e94")
+		)
+		(fp_line
+			(start -1.05 3.8)
+			(end -3 1.85)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "f5ab830c-b0a7-4e5f-a4a9-d07c591afbf7")
+		)
+		(fp_line
+			(start -3 1.85)
+			(end -3 -4)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "96a17e73-ffd6-4f85-9398-ee0fec4d88a5")
+		)
+		(fp_line
+			(start -3 1.8)
+			(end 7.5 1.8)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "51df11dc-72a8-4ee2-91ea-e7fb3ab566a2")
+		)
+		(fp_line
+			(start -3 0.5)
+			(end 7.5 0.5)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "1720c005-5a80-44b6-8f19-4c6568b8ab67")
+		)
+		(fp_line
+			(start -3 -0.5)
+			(end 7.5 -0.5)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "6cba5890-d150-4a7f-9bb2-a3b2e07a2539")
+		)
+		(fp_line
+			(start -3 -4)
+			(end 7.5 -4)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "5eda5486-9916-4fbb-9369-8dff42abe6d0")
+		)
+		(fp_circle
+			(center 5 0)
+			(end 6.6 0)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(fill none)
+			(layer "F.Fab")
+			(uuid "1167228c-11e7-4922-b7f4-d6450275518d")
+		)
+		(fp_circle
+			(center 0 0)
+			(end 1.6 0)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(fill none)
+			(layer "F.Fab")
+			(uuid "a809a654-a73b-4db8-b44c-d1bfc8b5081f")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 2.25 4.4 360)
+			(layer "F.Fab")
+			(uuid "363f9147-9442-4478-bbba-5e3d8d7c8f59")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(pad "1" thru_hole rect
+			(at 0 0 180)
+			(size 2.8 2.8)
+			(drill 1.3)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(net 1 "Net-(J1-Pin_1)")
+			(pinfunction "Pin_1")
+			(pintype "passive")
+			(uuid "7ab9cf73-c150-4ba2-94ee-01b42d9d1b0c")
+		)
+		(pad "2" thru_hole circle
+			(at 5 0 180)
+			(size 2.8 2.8)
+			(drill 1.3)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(net 2 "Net-(J2-Pin_1)")
+			(pinfunction "Pin_2")
+			(pintype "passive")
+			(uuid "83e7f730-5a5a-4537-8837-ee21a355843b")
+		)
+		(model "${KICAD8_3DMODEL_DIR}/TerminalBlock.3dshapes/TerminalBlock_MaiXu_MX126-5.0-02P_1x02_P5.00mm.wrl"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+	)
+	(footprint "Graphics:Cyclone_footprint"
+		(layer "F.Cu")
+		(uuid "56ab0750-f77d-43e0-8f4b-ca57268f1ab8")
+		(at 194.6148 98.0948 -90)
+		(property "Reference" "G***"
+			(at 0 0 90)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "5d2f9499-5d45-4dc1-9fee-dcfe0fcfdf3c")
+			(effects
+				(font
+					(size 1.5 1.5)
+					(thickness 0.3)
+				)
+			)
+		)
+		(property "Value" "LOGO"
+			(at 0.75 0 90)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "d1b5246b-7ca9-40d7-8eb0-222bbe09dcfa")
+			(effects
+				(font
+					(size 1.5 1.5)
+					(thickness 0.3)
+				)
+			)
+		)
+		(property "Footprint" "Graphics:Cyclone_footprint"
+			(at 0 0 90)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "99a5b838-89c7-4b67-a581-181fb9578ff4")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 90)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "77f0f711-705d-463f-ac4b-36a872fa75f7")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 90)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "05b23884-39e8-4304-b66c-bbbd8296bc07")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(attr board_only exclude_from_pos_files exclude_from_bom)
+		(fp_poly
+			(pts
+				(xy 0.366346 -1.0795) (xy 0.366346 0.747346) (xy 0.036378 0.749918) (xy -0.056684 0.750494) (xy -0.131845 0.75059)
+				(xy -0.190735 0.750158) (xy -0.234988 0.749151) (xy -0.266236 0.747522) (xy -0.28611 0.745222) (xy -0.296242 0.742204)
+				(xy -0.298282 0.740149) (xy -0.298752 0.729255) (xy -0.299182 0.69979) (xy -0.299572 0.652723) (xy -0.29992 0.58902)
+				(xy -0.300225 0.509649) (xy -0.300487 0.415579) (xy -0.300703 0.307776) (xy -0.300872 0.187209)
+				(xy -0.300995 0.054845) (xy -0.301068 -0.088348) (xy -0.301092 -0.241402) (xy -0.301065 -0.40335)
+				(xy -0.300986 -0.573224) (xy -0.300853 -0.750056) (xy -0.300666 -0.932878) (xy -0.300468 -1.08927)
+				(xy -0.297962 -2.906346) (xy 0.034192 -2.906346) (xy 0.366346 -2.906346)
+			)
+			(stroke
+				(width 0)
+				(type solid)
+			)
+			(fill solid)
+			(layer "F.SilkS")
+			(uuid "65ada8c9-052b-447f-9f9d-44c16746664b")
+		)
+		(fp_poly
+			(pts
+				(xy 2.179065 -0.913213) (xy 2.250301 -0.878688) (xy 2.313761 -0.826388) (xy 2.318634 -0.821271)
+				(xy 2.358602 -0.773814) (xy 2.385174 -0.728831) (xy 2.400651 -0.680273) (xy 2.407336 -0.622093)
+				(xy 2.408101 -0.586154) (xy 2.405042 -0.520448) (xy 2.394354 -0.467532) (xy 2.37377 -0.421408) (xy 2.341023 -0.376078)
+				(xy 2.319657 -0.352132) (xy 2.264879 -0.303137) (xy 2.205762 -0.270444) (xy 2.137988 -0.252143)
+				(xy 2.081636 -0.246813) (xy 2.035707 -0.246011) (xy 2.001741 -0.248562) (xy 1.972294 -0.255529)
+				(xy 1.9433 -0.266539) (xy 1.868816 -0.307139) (xy 1.808674 -0.359538) (xy 1.764103 -0.422498) (xy 1.744802 -0.466374)
+				(xy 1.726864 -0.544379) (xy 1.72653 -0.621372) (xy 1.742369 -0.694938) (xy 1.772951 -0.762661) (xy 1.816846 -0.822127)
+				(xy 1.872622 -0.870919) (xy 1.93885 -0.906623) (xy 2.0141 -0.926824) (xy 2.017797 -0.927346) (xy 2.101187 -0.929566)
+			)
+			(stroke
+				(width 0)
+				(type solid)
+			)
+			(fill solid)
+			(layer "F.SilkS")
+			(uuid "e3c58c04-dbc5-441a-a1be-bd20135c93ae")
+		)
+		(fp_poly
+			(pts
+				(xy 6.957537 1.946519) (xy 6.958407 2.034941) (xy 6.959289 2.106038) (xy 6.960332 2.162023) (xy 6.961687 2.205109)
+				(xy 6.963506 2.23751) (xy 6.965939 2.261439) (xy 6.969137 2.279108) (xy 6.97325 2.292732) (xy 6.978431 2.304522)
+				(xy 6.982467 2.312299) (xy 7.019376 2.361812) (xy 7.069228 2.39675) (xy 7.11934 2.414289) (xy 7.153543 2.420441)
+				(xy 7.180277 2.419288) (xy 7.210436 2.410201) (xy 7.214096 2.408818) (xy 7.26895 2.377821) (xy 7.313707 2.33216)
+				(xy 7.337952 2.291101) (xy 7.342929 2.278597) (xy 7.346898 2.263891) (xy 7.349972 2.244747) (xy 7.352266 2.218924)
+				(xy 7.353895 2.184186) (xy 7.354971 2.138293) (xy 7.355609 2.079007) (xy 7.355924 2.00409) (xy 7.356016 1.93675)
+				(xy 7.356231 1.621692) (xy 7.493 1.621692) (xy 7.629769 1.621692) (xy 7.629769 2.144346) (xy 7.629769 2.667)
+				(xy 7.596409 2.667) (xy 7.576366 2.664927) (xy 7.560017 2.656214) (xy 7.542249 2.637119) (xy 7.526328 2.615711)
+				(xy 7.506141 2.58777) (xy 7.490019 2.565918) (xy 7.482182 2.555789) (xy 7.471056 2.556454) (xy 7.449685 2.566929)
+				(xy 7.427704 2.581428) (xy 7.343213 2.634362) (xy 7.26049 2.668368) (xy 7.178178 2.683803) (xy 7.094921 2.681026)
+				(xy 7.068038 2.676387) (xy 6.975159 2.648099) (xy 6.893515 2.604212) (xy 6.824236 2.545848) (xy 6.768452 2.47413)
+				(xy 6.727292 2.390179) (xy 6.705993 2.316588) (xy 6.701708 2.290123) (xy 6.698306 2.254294) (xy 6.69572 2.207222)
+				(xy 6.693879 2.147026) (xy 6.692715 2.071827) (xy 6.69216 1.979745) (xy 6.692093 1.93675) (xy 6.691923 1.621692)
+				(xy 6.82321 1.621692) (xy 6.954496 1.621692)
+			)
+			(stroke
+				(width 0)
+				(type solid)
+			)
+			(fill solid)
+			(layer "F.SilkS")
+			(uuid "e121608e-f2b2-44b7-8f47-2de49cd08eac")
+		)
+		(fp_poly
+			(pts
+				(xy 2.544142 1.587867) (xy 2.639256 1.610166) (xy 2.727074 1.647559) (xy 2.802236 1.697586) (xy 2.86888 1.762858)
+				(xy 2.924401 1.839998) (xy 2.966195 1.92563) (xy 2.983802 1.98046) (xy 2.993399 2.034919) (xy 2.998118 2.100316)
+				(xy 2.997949 2.168982) (xy 2.992881 2.233248) (xy 2.984222 2.280604) (xy 2.950276 2.374749) (xy 2.901244 2.458776)
+				(xy 2.839145 2.531423) (xy 2.766 2.591428) (xy 2.683829 2.637527) (xy 2.594651 2.668459) (xy 2.500488 2.68296)
+				(xy 2.403357 2.679768) (xy 2.358043 2.671969) (xy 2.264575 2.642107) (xy 2.180166 2.596272) (xy 2.106161 2.536445)
+				(xy 2.043905 2.464605) (xy 1.994743 2.382731) (xy 1.960021 2.292804) (xy 1.941085 2.196802) (xy 1.940148 2.144909)
+				(xy 2.209368 2.144909) (xy 2.217927 2.20953) (xy 2.239707 2.270496) (xy 2.274838 2.324688) (xy 2.323453 2.368983)
+				(xy 2.339053 2.378927) (xy 2.400642 2.406473) (xy 2.462817 2.416123) (xy 2.528946 2.408131) (xy 2.568366 2.396256)
+				(xy 2.627464 2.365486) (xy 2.67394 2.320457) (xy 2.706989 2.262468) (xy 2.72581 2.192816) (xy 2.730106 2.134577)
+				(xy 2.723337 2.05842) (xy 2.702246 1.99406) (xy 2.665984 1.939138) (xy 2.655443 1.92763) (xy 2.607005 1.890739)
+				(xy 2.547999 1.866275) (xy 2.483638 1.855144) (xy 2.419136 1.858254) (xy 2.360262 1.876251) (xy 2.304697 1.912319)
+				(xy 2.261693 1.96034) (xy 2.231382 2.017193) (xy 2.213897 2.079756) (xy 2.209368 2.144909) (xy 1.940148 2.144909)
+				(xy 1.939278 2.096706) (xy 1.942931 2.061153) (xy 1.965405 1.96009) (xy 2.003176 1.868922) (xy 2.054438 1.788604)
+				(xy 2.117383 1.720087) (xy 2.190205 1.664323) (xy 2.271099 1.622267) (xy 2.358257 1.594871) (xy 2.449873 1.583086)
+			)
+			(stroke
+				(width 0)
+				(type solid)
+			)
+			(fill solid)
+			(layer "F.SilkS")
+			(uuid "60c403ba-42e9-40c0-97c3-b383fa72c236")
+		)
+		(fp_poly
+			(pts
+				(xy 4.919616 1.593385) (xy 5.010965 1.618221) (xy 5.097556 1.659359) (xy 5.162376 1.70471) (xy 5.202392 1.744312)
+				(xy 5.243002 1.796064) (xy 5.279625 1.853279) (xy 5.307679 1.909265) (xy 5.314419 1.92674) (xy 5.341342 2.030768)
+				(xy 5.349975 2.134585) (xy 5.340765 2.236116) (xy 5.314159 2.333287) (xy 5.270607 2.424022) (xy 5.210554 2.506246)
+				(xy 5.183209 2.535115) (xy 5.106157 2.597606) (xy 5.019859 2.64371) (xy 4.926673 2.672757) (xy 4.82896 2.684076)
+				(xy 4.729077 2.677) (xy 4.701694 2.671772) (xy 4.616472 2.643879) (xy 4.534758 2.599411) (xy 4.460415 2.541327)
+				(xy 4.397307 2.472588) (xy 4.354012 2.405405) (xy 4.319325 2.328188) (xy 4.298394 2.251981) (xy 4.289377 2.16915)
+				(xy 4.288692 2.134577) (xy 4.289346 2.125425) (xy 4.557106 2.125425) (xy 4.561081 2.187948) (xy 4.574643 2.243947)
+				(xy 4.581628 2.26055) (xy 4.621214 2.322442) (xy 4.671493 2.369558) (xy 4.729971 2.400966) (xy 4.794151 2.415735)
+				(xy 4.86154 2.412936) (xy 4.92964 2.391638) (xy 4.931218 2.390912) (xy 4.975061 2.362335) (xy 5.016386 2.320942)
+				(xy 5.049489 2.273196) (xy 5.064612 2.239756) (xy 5.073299 2.203711) (xy 5.078879 2.160298) (xy 5.08 2.134577)
+				(xy 5.071723 2.059951) (xy 5.048055 1.994047) (xy 5.010739 1.938745) (xy 4.961519 1.895927) (xy 4.902138 1.867472)
+				(xy 4.834341 1.855261) (xy 4.820711 1.854932) (xy 4.74777 1.863499) (xy 4.684579 1.888941) (xy 4.63174 1.930867)
+				(xy 4.589855 1.988888) (xy 4.578329 2.011965) (xy 4.562821 2.064167) (xy 4.557106 2.125425) (xy 4.289346 2.125425)
+				(xy 4.296056 2.031587) (xy 4.318859 1.938725) (xy 4.358174 1.85288) (xy 4.412828 1.773703) (xy 4.479762 1.705605)
+				(xy 4.557072 1.652415) (xy 4.642235 1.614366) (xy 4.732728 1.59169) (xy 4.826029 1.584619)
+			)
+			(stroke
+				(width 0)
+				(type solid)
+			)
+			(fill solid)
+			(layer "F.SilkS")
+			(uuid "992ecd74-50b2-43d8-91a4-004438e2bd07")
+		)
+		(fp_poly
+			(pts
+				(xy 3.399692 1.447005) (xy 3.399692 1.682626) (xy 3.435038 1.655667) (xy 3.484652 1.623785) (xy 3.5376 1.6029)
+				(xy 3.599011 1.59153) (xy 3.668346 1.588194) (xy 3.770635 1.596724) (xy 3.864423 1.622668) (xy 3.948967 1.665506)
+				(xy 4.023525 1.724721) (xy 4.087356 1.799794) (xy 4.139716 1.890206) (xy 4.156831 1.929423) (xy 4.175037 1.990729)
+				(xy 4.186636 2.063628) (xy 4.191101 2.14114) (xy 4.187905 2.216291) (xy 4.181756 2.259095) (xy 4.154074 2.353853)
+				(xy 4.110586 2.439177) (xy 4.053234 2.513811) (xy 3.983956 2.576494) (xy 3.904694 2.62597) (xy 3.817389 2.660978)
+				(xy 3.723981 2.680261) (xy 3.626411 2.682561) (xy 3.546231 2.671234) (xy 3.451598 2.641107) (xy 3.36616 2.594265)
+				(xy 3.291069 2.531799) (xy 3.227477 2.454801) (xy 3.176538 2.364363) (xy 3.149723 2.295769) (xy 3.14577 2.282353)
+				(xy 3.142417 2.266905) (xy 3.139599 2.247712) (xy 3.137252 2.223061) (xy 3.135313 2.191239) (xy 3.133718 2.150534)
+				(xy 3.133208 2.130663) (xy 3.400244 2.130663) (xy 3.405705 2.195212) (xy 3.424746 2.256454) (xy 3.456515 2.311589)
+				(xy 3.50016 2.357821) (xy 3.554827 2.392353) (xy 3.616049 2.411746) (xy 3.681043 2.415662) (xy 3.744885 2.402065)
+				(xy 3.766912 2.393516) (xy 3.822673 2.359508) (xy 3.867836 2.311614) (xy 3.900955 2.25321) (xy 3.920584 2.187672)
+				(xy 3.925276 2.118375) (xy 3.913995 2.050085) (xy 3.885345 1.982493) (xy 3.843423 1.927878) (xy 3.790075 1.887678)
+				(xy 3.727148 1.863329) (xy 3.664628 1.856154) (xy 3.602528 1.862292) (xy 3.549392 1.882166) (xy 3.50053 1.917963)
+				(xy 3.473866 1.945134) (xy 3.433472 2.002826) (xy 3.409215 2.065601) (xy 3.400244 2.130663) (xy 3.133208 2.130663)
+				(xy 3.132402 2.099234) (xy 3.131301 2.035626) (xy 3.130352 1.957996) (xy 3.129491 1.864634) (xy 3.128653 1.753825)
+				(xy 3.128464 1.726711) (xy 3.12491 1.211384) (xy 3.262301 1.211384) (xy 3.399692 1.211384)
+			)
+			(stroke
+				(width 0)
+				(type solid)
+			)
+			(fill solid)
+			(layer "F.SilkS")
+			(uuid "36563628-8844-4f33-949f-58307d8ae57d")
+		)
+		(fp_poly
+			(pts
+				(xy 1.141699 1.270187) (xy 1.217923 1.270808) (xy 1.279013 1.27195) (xy 1.327169 1.2737) (xy 1.364593 1.276146)
+				(xy 1.393484 1.279375) (xy 1.416044 1.283476) (xy 1.421813 1.284865) (xy 1.518613 1.319385) (xy 1.607031 1.37041)
+				(xy 1.685036 1.435969) (xy 1.750597 1.514087) (xy 1.801682 1.602793) (xy 1.831552 1.682765) (xy 1.842359 1.738433)
+				(xy 1.847229 1.804693) (xy 1.846163 1.873523) (xy 1.839159 1.9369) (xy 1.831552 1.970926) (xy 1.801492 2.050352)
+				(xy 1.75906 2.127835) (xy 1.707651 2.198411) (xy 1.650662 2.257115) (xy 1.618538 2.282289) (xy 1.590961 2.30145)
+				(xy 1.664942 2.475787) (xy 1.687861 2.530213) (xy 1.707891 2.578576) (xy 1.723858 2.617972) (xy 1.734583 2.645493)
+				(xy 1.73889 2.658233) (xy 1.738923 2.658562) (xy 1.72972 2.661514) (xy 1.704377 2.664015) (xy 1.666288 2.665868)
+				(xy 1.618848 2.666875) (xy 1.594023 2.667) (xy 1.449123 2.667) (xy 1.387564 2.525346) (xy 1.326006 2.383692)
+				(xy 1.171003 2.383692) (xy 1.016 2.383692) (xy 1.016 2.525346) (xy 1.016 2.667) (xy 0.874346 2.667)
+				(xy 0.732692 2.667) (xy 0.732692 1.9685) (xy 0.732692 1.826564) (xy 1.016 1.826564) (xy 1.016 2.112051)
+				(xy 1.189404 2.108273) (xy 1.253007 2.106685) (xy 1.300565 2.104814) (xy 1.335572 2.102239) (xy 1.361519 2.098538)
+				(xy 1.381899 2.093291) (xy 1.400206 2.086077) (xy 1.409319 2.081775) (xy 1.441553 2.061635) (xy 1.476656 2.033127)
+				(xy 1.499735 2.010222) (xy 1.54055 1.951588) (xy 1.564033 1.888097) (xy 1.570832 1.822539) (xy 1.561594 1.757705)
+				(xy 1.536967 1.696384) (xy 1.497598 1.641368) (xy 1.444135 1.595446) (xy 1.397496 1.569678) (xy 1.377841 1.562074)
+				(xy 1.355446 1.556401) (xy 1.326802 1.552259) (xy 1.288398 1.549249) (xy 1.236725 1.546971) (xy 1.184519 1.545435)
+				(xy 1.016 1.541077) (xy 1.016 1.826564) (xy 0.732692 1.826564) (xy 0.732692 1.27) (xy 1.04814 1.27)
+			)
+			(stroke
+				(width 0)
+				(type solid)
+			)
+			(fill solid)
+			(layer "F.SilkS")
+			(uuid "c96e97f4-ac26-49c4-9a6f-a5d41a2c3e1f")
+		)
+		(fp_poly
+			(pts
+				(xy 8.069384 1.450666) (xy 8.069384 1.689948) (xy 8.11285 1.65677) (xy 8.162749 1.624587) (xy 8.215836 1.603373)
+				(xy 8.277036 1.591751) (xy 8.351277 1.588344) (xy 8.357577 1.588382) (xy 8.445643 1.595154) (xy 8.52418 1.615004)
+				(xy 8.599667 1.649806) (xy 8.627436 1.666414) (xy 8.701923 1.724444) (xy 8.76313 1.794573) (xy 8.81081 1.874346)
+				(xy 8.844716 1.961307) (xy 8.864601 2.052999) (xy 8.870219 2.146966) (xy 8.861322 2.240752) (xy 8.837665 2.331901)
+				(xy 8.798999 2.417956) (xy 8.74508 2.496462) (xy 8.71422 2.53023) (xy 8.636153 2.59501) (xy 8.549679 2.642573)
+				(xy 8.456491 2.672434) (xy 8.358278 2.684102) (xy 8.256733 2.677091) (xy 8.225692 2.671234) (xy 8.131152 2.641062)
+				(xy 8.045194 2.594056) (xy 7.969346 2.531601) (xy 7.905134 2.455081) (xy 7.854085 2.365881) (xy 7.833378 2.315307)
+				(xy 7.828378 2.301065) (xy 7.824159 2.287337) (xy 7.820642 2.272386) (xy 7.81775 2.254477) (xy 7.815408 2.231873)
+				(xy 7.813538 2.202837) (xy 7.812218 2.169553) (xy 8.081231 2.169553) (xy 8.089615 2.223344) (xy 8.092932 2.234518)
+				(xy 8.122229 2.294514) (xy 8.165571 2.345712) (xy 8.219233 2.38489) (xy 8.279488 2.408827) (xy 8.298961 2.412655)
+				(xy 8.340171 2.41471) (xy 8.385841 2.410893) (xy 8.427332 2.402305) (xy 8.450599 2.393346) (xy 8.489218 2.366077)
+				(xy 8.528558 2.32745) (xy 8.562148 2.284275) (xy 8.57524 2.262196) (xy 8.58911 2.231832) (xy 8.596966 2.20271)
+				(xy 8.600351 2.167154) (xy 8.600886 2.134577) (xy 8.599714 2.090134) (xy 8.595158 2.057426) (xy 8.585653 2.028733)
+				(xy 8.57492 2.006324) (xy 8.532886 1.942314) (xy 8.482181 1.895801) (xy 8.42274 1.866745) (xy 8.354499 1.855104)
+				(xy 8.343547 1.854857) (xy 8.275441 1.863893) (xy 8.21306 1.890677) (xy 8.158721 1.933722) (xy 8.114744 1.991537)
+				(xy 8.105921 2.007577) (xy 8.089832 2.053853) (xy 8.081453 2.110451) (xy 8.081231 2.169553) (xy 7.812218 2.169553)
+				(xy 7.812063 2.165632) (xy 7.810906 2.118522) (xy 7.809991 2.059771) (xy 7.809241 1.987641) (xy 7.808579 1.900396)
+				(xy 7.807927 1.7963) (xy 7.807548 1.731596) (xy 7.80452 1.211384) (xy 7.936952 1.211384) (xy 8.069384 1.211384)
+			)
+			(stroke
+				(width 0)
+				(type solid)
+			)
+			(fill solid)
+			(layer "F.SilkS")
+			(uuid "5934c1c1-b3e9-4e78-b409-d9a4386ef5a7")
+		)
+		(fp_poly
+			(pts
+				(xy 6.506308 1.405659) (xy 6.506308 1.542384) (xy 6.166827 1.545404) (xy 6.076009 1.546265) (xy 6.002616 1.547153)
+				(xy 5.944532 1.548197) (xy 5.899643 1.549527) (xy 5.865834 1.551271) (xy 5.840992 1.55356) (xy 5.823002 1.556523)
+				(xy 5.809749 1.56029) (xy 5.79912 1.56499) (xy 5.793154 1.568294) (xy 5.756013 1.599854) (xy 5.73369 1.640019)
+				(xy 5.726145 1.684701) (xy 5.733337 1.729817) (xy 5.755226 1.771282) (xy 5.791772 1.805009) (xy 5.795507 1.80736)
+				(xy 5.808866 1.814444) (xy 5.824322 1.819579) (xy 5.845102 1.823072) (xy 5.874432 1.82523) (xy 5.915536 1.826363)
+				(xy 5.971643 1.826776) (xy 5.999416 1.826809) (xy 6.059616 1.827369) (xy 6.116826 1.828894) (xy 6.166593 1.831192)
+				(xy 6.204464 1.834073) (xy 6.221784 1.836384) (xy 6.302949 1.861159) (xy 6.376087 1.901757) (xy 6.439457 1.955725)
+				(xy 6.491315 2.020606) (xy 6.529918 2.093945) (xy 6.553522 2.173286) (xy 6.560385 2.256174) (xy 6.555711 2.30677)
+				(xy 6.532408 2.392835) (xy 6.492635 2.470783) (xy 6.438395 2.538497) (xy 6.371692 2.593863) (xy 6.294529 2.634766)
+				(xy 6.224961 2.656007) (xy 6.198574 2.659328) (xy 6.154053 2.662106) (xy 6.092794 2.664301) (xy 6.016196 2.665873)
+				(xy 5.925655 2.66678) (xy 5.846404 2.667) (xy 5.519615 2.667) (xy 5.519615 2.525706) (xy 5.519615 2.384413)
+				(xy 5.860763 2.38161) (xy 6.201911 2.378807) (xy 6.228037 2.354384) (xy 6.263639 2.310407) (xy 6.280142 2.264051)
+				(xy 6.277545 2.217058) (xy 6.25585 2.171171) (xy 6.228046 2.139461) (xy 6.218928 2.131434) (xy 6.209208 2.125309)
+				(xy 6.196159 2.120743) (xy 6.177052 2.117387) (xy 6.149162 2.114898) (xy 6.10976 2.112927) (xy 6.056119 2.11113)
+				(xy 5.990214 2.109288) (xy 5.918183 2.107138) (xy 5.862555 2.10489) (xy 5.820192 2.102227) (xy 5.78796 2.098829)
+				(xy 5.762723 2.09438) (xy 5.741346 2.08856) (xy 5.723741 2.08225) (xy 5.639043 2.03989) (xy 5.568865 1.984506)
+				(xy 5.513559 1.916526) (xy 5.473476 1.83638) (xy 5.449526 1.747712) (xy 5.444717 1.666097) (xy 5.457928 1.585345)
+				(xy 5.48772 1.508083) (xy 5.532652 1.436932) (xy 5.591287 1.374517) (xy 5.662183 1.323462) (xy 5.690577 1.308297)
+				(xy 5.758961 1.274884) (xy 6.132634 1.271909) (xy 6.506308 1.268933)
+			)
+			(stroke
+				(width 0)
+				(type solid)
+			)
+			(fill solid)
+			(layer "F.SilkS")
+			(uuid "19ddcad3-d872-4744-98bf-2f66dcf7a3df")
+		)
+		(fp_poly
+			(pts
+				(xy 5.072688 -1.908965) (xy 5.13765 -1.900951) (xy 5.282854 -1.866057) (xy 5.420182 -1.813962) (xy 5.54847 -1.745815)
+				(xy 5.666554 -1.662763) (xy 5.77327 -1.565957) (xy 5.867452 -1.456543) (xy 5.947937 -1.335672) (xy 6.01356 -1.204491)
+				(xy 6.063157 -1.064149) (xy 6.087077 -0.964365) (xy 6.090433 -0.94627) (xy 6.093362 -0.927655) (xy 6.095895 -0.907129)
+				(xy 6.09806 -0.8833) (xy 6.099885 -0.854776) (xy 6.101399 -0.820165) (xy 6.10263 -0.778077) (xy 6.103608 -0.727118)
+				(xy 6.104362 -0.665898) (xy 6.104919 -0.593024) (xy 6.105308 -0.507105) (xy 6.105559 -0.406749)
+				(xy 6.1057 -0.290565) (xy 6.10576 -0.15716) (xy 6.105769 -0.058139) (xy 6.105769 0.75249) (xy 5.776058 0.749918)
+				(xy 5.446346 0.747346) (xy 5.441461 -0.053731) (xy 5.436577 -0.854808) (xy 5.413138 -0.913423) (xy 5.366269 -1.006936)
+				(xy 5.306249 -1.086131) (xy 5.23328 -1.150786) (xy 5.153269 -1.198009) (xy 5.06408 -1.230333) (xy 4.973587 -1.244542)
+				(xy 4.883853 -1.241765) (xy 4.796943 -1.223133) (xy 4.71492 -1.189775) (xy 4.639848 -1.142822) (xy 4.573792 -1.083404)
+				(xy 4.518814 -1.012652) (xy 4.476979 -0.931694) (xy 4.450351 -0.841663) (xy 4.445273 -0.810311)
+				(xy 4.443684 -0.788279) (xy 4.442182 -0.748289) (xy 4.440785 -0.69192) (xy 4.439511 -0.620751) (xy 4.438381 -0.536363)
+				(xy 4.437411 -0.440336) (xy 4.436623 -0.334248) (xy 4.436033 -0.21968) (xy 4.435662 -0.098211) (xy 4.435532 0.007327)
+				(xy 4.435231 0.75223) (xy 4.10959 0.75223) (xy 4.031686 0.752042) (xy 3.960078 0.751506) (xy 3.89709 0.750669)
+				(xy 3.84505 0.749577) (xy 3.806283 0.748274) (xy 3.783115 0.746807) (xy 3.777436 0.745718) (xy 3.776646 0.735337)
+				(xy 3.775884 0.706558) (xy 3.775155 0.660521) (xy 3.774464 0.598367) (xy 3.773818 0.521235) (xy 3.773223 0.430266)
+				(xy 3.772683 0.3266) (xy 3.772204 0.211377) (xy 3.771792 0.085738) (xy 3.771454 -0.049178) (xy 3.771193 -0.192229)
+				(xy 3.771017 -0.342276) (xy 3.770931 -0.498179) (xy 3.770923 -0.563359) (xy 3.770923 -1.865923)
+				(xy 3.853038 -1.865923) (xy 3.935152 -1.865923) (xy 4.044281 -1.739562) (xy 4.15341 -1.613201) (xy 4.213724 -1.661863)
+				(xy 4.314856 -1.733396) (xy 4.429129 -1.796592) (xy 4.550969 -1.848721) (xy 4.672687 -1.886528)
+				(xy 4.739264 -1.899179) (xy 4.81879 -1.907942) (xy 4.905028 -1.912623) (xy 4.991739 -1.913028)
+			)
+			(stroke
+				(width 0)
+				(type solid)
+			)
+			(fill solid)
+			(layer "F.SilkS")
+			(uuid "04fea85a-50a7-47cc-8545-25216115412f")
+		)
+		(fp_poly
+			(pts
+				(xy -1.620446 -1.959013) (xy -1.477356 -1.941578) (xy -1.340855 -1.907836) (xy -1.208137 -1.856981)
+				(xy -1.076395 -1.788206) (xy -0.995867 -1.737479) (xy -0.922951 -1.68324) (xy -0.848049 -1.617831)
+				(xy -0.77643 -1.546416) (xy -0.713358 -1.474162) (xy -0.675007 -1.422782) (xy -0.622563 -1.345986)
+				(xy -0.866761 -1.101788) (xy -1.11096 -0.857589) (xy -1.148676 -0.934352) (xy -1.170897 -0.975431)
+				(xy -1.19636 -1.012898) (xy -1.229032 -1.051957) (xy -1.27288 -1.097814) (xy -1.2746 -1.099539)
+				(xy -1.334807 -1.155951) (xy -1.390726 -1.198728) (xy -1.447819 -1.231169) (xy -1.511548 -1.256574)
+				(xy -1.557602 -1.270461) (xy -1.640583 -1.285666) (xy -1.731256 -1.289395) (xy -1.82219 -1.281913)
+				(xy -1.905953 -1.263485) (xy -1.924318 -1.257407) (xy -2.023027 -1.211992) (xy -2.111758 -1.150114)
+				(xy -2.189588 -1.072623) (xy -2.255598 -0.980368) (xy -2.286752 -0.923193) (xy -2.317039 -0.858116)
+				(xy -2.338944 -0.80104) (xy -2.353952 -0.745857) (xy -2.363546 -0.686458) (xy -2.369212 -0.616736)
+				(xy -2.371025 -0.576385) (xy -2.372093 -0.49486) (xy -2.367994 -0.42709) (xy -2.357743 -0.367747)
+				(xy -2.340359 -0.3115) (xy -2.314858 -0.253019) (xy -2.309335 -0.241854) (xy -2.25003 -0.143198)
+				(xy -2.178337 -0.059454) (xy -2.093294 0.010316) (xy -1.993939 0.06705) (xy -1.990964 0.06845) (xy -1.89143 0.104548)
+				(xy -1.787109 0.123123) (xy -1.680795 0.124657) (xy -1.575279 0.109637) (xy -1.473356 0.078546)
+				(xy -1.377817 0.031868) (xy -1.291455 -0.029912) (xy -1.26063 -0.058226) (xy -1.225213 -0.096378)
+				(xy -1.189893 -0.139747) (xy -1.161255 -0.180141) (xy -1.156652 -0.18757) (xy -1.117455 -0.253024)
+				(xy -0.874745 -0.010168) (xy -0.632034 0.232688) (xy -0.66755 0.281069) (xy -0.700484 0.321043)
+				(xy -0.745198 0.368484) (xy -0.797544 0.419541) (xy -0.853373 0.470366) (xy -0.908538 0.517108)
+				(xy -0.958891 0.555919) (xy -0.978068 0.569235) (xy -1.118163 0.650767) (xy -1.266404 0.71484) (xy -1.421092 0.760777)
+				(xy -1.498414 0.776408) (xy -1.557138 0.783678) (xy -1.628966 0.78825) (xy -1.708032 0.790135) (xy -1.788469 0.789347)
+				(xy -1.864412 0.785896) (xy -1.929992 0.779795) (xy -1.958731 0.775457) (xy -2.112838 0.737905)
+				(xy -2.260622 0.682486) (xy -2.400476 0.610248) (xy -2.530792 0.52224) (xy -2.649965 0.419507) (xy -2.756388 0.303098)
+				(xy -2.824423 0.211094) (xy -2.905319 0.076393) (xy -2.967757 -0.060843) (xy -3.012387 -0.20277)
+				(xy -3.039856 -0.35154) (xy -3.050812 -0.509308) (xy -3.051078 -0.542193) (xy -3.041654 -0.713397)
+				(xy -3.0143 -0.87877) (xy -2.969602 -1.037246) (xy -2.90815 -1.187757) (xy -2.83053 -1.329239) (xy -2.737329 -1.460625)
+				(xy -2.629137 -1.58085) (xy -2.506539 -1.688846) (xy -2.370124 -1.783549) (xy -2.365207 -1.786548)
+				(xy -2.235225 -1.855824) (xy -2.1021 -1.9071) (xy -1.96311 -1.941175) (xy -1.815537 -1.958852) (xy -1.772933 -1.96095)
+			)
+			(stroke
+				(width 0)
+				(type solid)
+			)
+			(fill solid)
+			(layer "F.SilkS")
+			(uuid "8474d001-9308-4ab1-baf4-604fbda325d5")
+		)
+		(fp_poly
+			(pts
+				(xy 2.215323 -1.963118) (xy 2.361341 -1.939221) (xy 2.505687 -1.897184) (xy 2.646824 -1.836788)
+				(xy 2.647461 -1.836468) (xy 2.695823 -1.810462) (xy 2.728439 -1.787843) (xy 2.748053 -1.765693)
+				(xy 2.757413 -1.741094) (xy 2.759363 -1.717568) (xy 2.753303 -1.68127) (xy 2.73399 -1.655088) (xy 2.699727 -1.637728)
+				(xy 2.648818 -1.627897) (xy 2.640545 -1.627073) (xy 2.51906 -1.607211) (xy 2.406467 -1.570888) (xy 2.303916 -1.518766)
+				(xy 2.212559 -1.451505) (xy 2.133547 -1.369765) (xy 2.091106 -1.311865) (xy 2.065434 -1.269434)
+				(xy 2.041334 -1.223911) (xy 2.023272 -1.183853) (xy 2.020643 -1.176879) (xy 1.998784 -1.115927)
+				(xy 1.946848 -1.104304) (xy 1.860196 -1.075396) (xy 1.778035 -1.029823) (xy 1.703982 -0.970438)
+				(xy 1.641654 -0.900096) (xy 1.598365 -0.829355) (xy 1.56349 -0.745712) (xy 1.543655 -0.664437) (xy 1.538141 -0.580178)
+				(xy 1.54623 -0.487581) (xy 1.549605 -0.466481) (xy 1.555864 -0.429846) (xy 1.469105 -0.430828) (xy 1.424438 -0.432315)
+				(xy 1.382417 -0.435399) (xy 1.350421 -0.439493) (xy 1.344096 -0.44078) (xy 1.270919 -0.466553) (xy 1.197975 -0.507791)
+				(xy 1.129747 -0.560886) (xy 1.07072 -0.622234) (xy 1.02538 -0.688229) (xy 1.017506 -0.703385) (xy 0.985581 -0.781594)
+				(xy 0.96745 -0.859548) (xy 0.962183 -0.943031) (xy 0.966757 -1.019154) (xy 0.980563 -1.098866) (xy 1.535921 -1.098866)
+				(xy 1.537599 -1.069518) (xy 1.543054 -1.030507) (xy 1.551027 -0.990488) (xy 1.560288 -0.954056)
+				(xy 1.569609 -0.925809) (xy 1.577761 -0.910346) (xy 1.580551 -0.90877) (xy 1.589839 -0.91612) (xy 1.605922 -0.934647)
+				(xy 1.616808 -0.948837) (xy 1.66566 -1.002916) (xy 1.728317 -1.053783) (xy 1.799053 -1.097663) (xy 1.872141 -1.130784)
+				(xy 1.911603 -1.143133) (xy 1.939767 -1.151359) (xy 1.957172 -1.161463) (xy 1.969585 -1.178858)
+				(xy 1.982774 -1.208953) (xy 1.983397 -1.210494) (xy 2.029082 -1.301325) (xy 2.090176 -1.38932) (xy 2.16267 -1.469522)
+				(xy 2.24255 -1.536969) (xy 2.254142 -1.545145) (xy 2.316832 -1.582705) (xy 2.387675 -1.615946) (xy 2.461162 -1.6429)
+				(xy 2.531785 -1.661598) (xy 2.594035 -1.670075) (xy 2.604721 -1.670369) (xy 2.657246 -1.674903)
+				(xy 2.69221 -1.687843) (xy 2.708356 -1.705831) (xy 2.713096 -1.722197) (xy 2.70958 -1.736975) (xy 2.695609 -1.752255)
+				(xy 2.668986 -1.770127) (xy 2.627512 -1.792682) (xy 2.605017 -1.804115) (xy 2.518798 -1.841672)
+				(xy 2.437277 -1.864113) (xy 2.355934 -1.871806) (xy 2.270248 -1.865119) (xy 2.1757 -1.84442) (xy 2.160987 -1.840277)
+				(xy 2.043472 -1.796612) (xy 1.930997 -1.735731) (xy 1.826803 -1.659873) (xy 1.734136 -1.571278)
+				(xy 1.683829 -1.510849) (xy 1.633564 -1.434206) (xy 1.59218 -1.350277) (xy 1.561137 -1.263471) (xy 1.541897 -1.178197)
+				(xy 1.535921 -1.098866) (xy 0.980563 -1.098866) (xy 0.990464 -1.156035) (xy 1.032428 -1.28618) (xy 1.092366 -1.409022)
+				(xy 1.169997 -1.52399) (xy 1.265037 -1.630517) (xy 1.275742 -1.640928) (xy 1.390348 -1.737862) (xy 1.51406 -1.818194)
+				(xy 1.645338 -1.881702) (xy 1.782643 -1.928168) (xy 1.924435 -1.957372) (xy 2.069175 -1.969095)
+			)
+			(stroke
+				(width 0)
+				(type solid)
+			)
+			(fill solid)
+			(layer "F.SilkS")
+			(uuid "d1ba295e-275f-49e8-936e-06ab6962f31e")
+		)
+		(fp_poly
+			(pts
+				(xy 0.819453 -0.626023) (xy 0.852822 -0.601208) (xy 0.882372 -0.563734) (xy 0.884658 -0.559923)
+				(xy 0.912446 -0.520697) (xy 0.951856 -0.475663) (xy 0.998049 -0.429537) (xy 1.046184 -0.387037)
+				(xy 1.091424 -0.35288) (xy 1.107519 -0.342673) (xy 1.206252 -0.293788) (xy 1.308398 -0.262511) (xy 1.418342 -0.247545)
+				(xy 1.431495 -0.246819) (xy 1.491036 -0.245515) (xy 1.544334 -0.247221) (xy 1.585397 -0.251711)
+				(xy 1.591378 -0.252872) (xy 1.643496 -0.264049) (xy 1.683883 -0.221273) (xy 1.744613 -0.167468)
+				(xy 1.816501 -0.120626) (xy 1.890728 -0.086354) (xy 1.943833 -0.072403) (xy 2.008275 -0.063364)
+				(xy 2.076356 -0.059736) (xy 2.140379 -0.062018) (xy 2.179735 -0.067619) (xy 2.246564 -0.087668)
+				(xy 2.316191 -0.118991) (xy 2.379674 -0.15725) (xy 2.406206 -0.17753) (xy 2.432123 -0.198727) (xy 2.448126 -0.208765)
+				(xy 2.459079 -0.209264) (xy 2.469847 -0.201845) (xy 2.472389 -0.199569) (xy 2.49315 -0.173391) (xy 2.515311 -0.133252)
+				(xy 2.536554 -0.084372) (xy 2.554564 -0.031972) (xy 2.565255 0.009769) (xy 2.574673 0.100429) (xy 2.566572 0.192437)
+				(xy 2.542208 0.282283) (xy 2.502839 0.366455) (xy 2.449722 0.441444) (xy 2.390067 0.499086) (xy 2.310426 0.551925)
+				(xy 2.216699 0.596292) (xy 2.112841 0.631221) (xy 2.002802 0.65575) (xy 1.890537 0.668917) (xy 1.779997 0.669757)
+				(xy 1.7145 0.663724) (xy 1.604925 0.641906) (xy 1.4905 0.606372) (xy 1.377356 0.559565) (xy 1.271623 0.503929)
+				(xy 1.2044 0.460397) (xy 1.088263 0.366153) (xy 0.984821 0.258312) (xy 0.895339 0.13884) (xy 0.821083 0.009699)
+				(xy 0.763319 -0.127145) (xy 0.723313 -0.269728) (xy 0.718552 -0.293435) (xy 0.707513 -0.360602)
+				(xy 0.699992 -0.425365) (xy 0.696192 -0.483936) (xy 0.69629 -0.522754) (xy 0.742991 -0.522754) (xy 0.74367 -0.48795)
+				(xy 0.74572 -0.447711) (xy 0.756606 -0.351503) (xy 0.778717 -0.267647) (xy 0.814067 -0.191606) (xy 0.864673 -0.118843)
+				(xy 0.918308 -0.059115) (xy 1.008138 0.019799) (xy 1.111375 0.088196) (xy 1.223782 0.143953) (xy 1.341121 0.184944)
+				(xy 1.450731 0.207918) (xy 1.511855 0.212747) (xy 1.582197 0.212607) (xy 1.652161 0.207807) (xy 1.707585 0.199615)
+				(xy 1.804812 0.170864) (xy 1.894103 0.126503) (xy 1.971903 0.068377) (xy 1.985779 0.055255) (xy 2.045695 -0.003739)
+				(xy 1.97779 -0.015427) (xy 1.873939 -0.04226) (xy 1.781236 -0.085059) (xy 1.699844 -0.143744) (xy 1.682407 -0.159801)
+				(xy 1.640546 -0.200125) (xy 1.491907 -0.200327) (xy 1.413978 -0.201643) (xy 1.350219 -0.206087)
+				(xy 1.295369 -0.214758) (xy 1.244165 -0.228754) (xy 1.191347 -0.249172) (xy 1.137308 -0.274326)
+				(xy 1.036426 -0.334597) (xy 0.946484 -0.410916) (xy 0.874254 -0.494474) (xy 0.841322 -0.537674)
+				(xy 0.816994 -0.566402) (xy 0.798759 -0.582253) (xy 0.78411 -0.586824) (xy 0.770535 -0.581711) (xy 0.756439 -0.569428)
+				(xy 0.749027 -0.559529) (xy 0.744661 -0.545292) (xy 0.742991 -0.522754) (xy 0.69629 -0.522754) (xy 0.696315 -0.532528)
+				(xy 0.700565 -0.567353) (xy 0.703392 -0.576404) (xy 0.723223 -0.60439) (xy 0.752995 -0.625815) (xy 0.784612 -0.634966)
+				(xy 0.786423 -0.635)
+			)
+			(stroke
+				(width 0)
+				(type solid)
+			)
+			(fill solid)
+			(layer "F.SilkS")
+			(uuid "28cb69bd-a580-467d-8ee4-a63bb9722f3b")
+		)
+		(fp_poly
+			(pts
+				(xy -7.071336 -2.798333) (xy -6.892532 -2.779111) (xy -6.716012 -2.741841) (xy -6.542987 -2.686665)
+				(xy -6.374663 -2.613724) (xy -6.212251 -2.52316) (xy -6.056958 -2.415114) (xy -6.028925 -2.393076)
+				(xy -5.997956 -2.368267) (xy -6.169752 -2.085345) (xy -6.211123 -2.017256) (xy -6.249778 -1.95372)
+				(xy -6.284415 -1.896868) (xy -6.313734 -1.848833) (xy -6.336435 -1.811745) (xy -6.351216 -1.787736)
+				(xy -6.356162 -1.779843) (xy -6.370775 -1.757262) (xy -6.437538 -1.820243) (xy -6.541035 -1.904735)
+				(xy -6.655506 -1.974444) (xy -6.778787 -2.029048) (xy -6.908714 -2.068226) (xy -7.043122 -2.091655)
+				(xy -7.179849 -2.099015) (xy -7.31673 -2.089983) (xy -7.4516 -2.064238) (xy -7.582296 -2.021459)
+				(xy -7.635496 -1.9983) (xy -7.764447 -1.927514) (xy -7.881781 -1.842386) (xy -7.986399 -1.744369)
+				(xy -8.0772 -1.634914) (xy -8.153087 -1.515472) (xy -8.21296 -1.387495) (xy -8.25572 -1.252435)
+				(xy -8.274986 -1.153742) (xy -8.282185 -1.077284) (xy -8.28377 -0.990741) (xy -8.280094 -0.900643)
+				(xy -8.271509 -0.813521) (xy -8.25837 -0.735903) (xy -8.250683 -0.704428) (xy -8.202846 -0.567109)
+				(xy -8.138328 -0.438475) (xy -8.058522 -0.319812) (xy -7.964818 -0.212404) (xy -7.858605 -0.117538)
+				(xy -7.741275 -0.0365) (xy -7.614217 0.029426) (xy -7.478822 0.078953) (xy -7.376625 0.103801) (xy -7.318579 0.111816)
+				(xy -7.247757 0.116684) (xy -7.170675 0.118343) (xy -7.093851 0.11673) (xy -7.023802 0.11178) (xy -6.990154 0.107557)
+				(xy -6.858461 0.078021) (xy -6.728956 0.030606) (xy -6.604952 -0.033064) (xy -6.489762 -0.111361)
+				(xy -6.415664 -0.174452) (xy -6.389053 -0.198075) (xy -6.372475 -0.208951) (xy -6.362802 -0.208772)
+				(xy -6.35945 -0.20485) (xy -6.352524 -0.19337) (xy -6.336639 -0.167247) (xy -6.313028 -0.128508)
+				(xy -6.282928 -0.079177) (xy -6.247575 -0.02128) (xy -6.208204 0.043158) (xy -6.174868 0.097692)
+				(xy -5.998661 0.385884) (xy -6.035119 0.418542) (xy -6.075737 0.451417) (xy -6.12938 0.489747) (xy -6.191431 0.530597)
+				(xy -6.257267 0.571035) (xy -6.322271 0.608127) (xy -6.381821 0.638939) (xy -6.383456 0.639726)
+				(xy -6.544833 0.709289) (xy -6.703877 0.761129) (xy -6.864343 0.796087) (xy -7.029987 0.815005)
+				(xy -7.183163 0.819052) (xy -7.238053 0.818263) (xy -7.288643 0.81715) (xy -7.330469 0.815838) (xy -7.35907 0.814454)
+				(xy -7.366 0.813888) (xy -7.510125 0.791099) (xy -7.659639 0.753381) (xy -7.809827 0.70253) (xy -7.955974 0.640341)
+				(xy -8.093366 0.568608) (xy -8.215209 0.490612) (xy -8.274588 0.44505) (xy -8.341164 0.388609) (xy -8.410123 0.325796)
+				(xy -8.476653 0.26112) (xy -8.535941 0.199086) (xy -8.577117 0.151714) (xy -8.686301 0.003027) (xy -8.778491 -0.153968)
+				(xy -8.853618 -0.317873) (xy -8.911616 -0.487289) (xy -8.952416 -0.660819) (xy -8.975953 -0.837065)
+				(xy -8.982158 -1.014628) (xy -8.970964 -1.192111) (xy -8.942304 -1.368116) (xy -8.89611 -1.541245)
+				(xy -8.832316 -1.7101) (xy -8.750853 -1.873283) (xy -8.680179 -1.988039) (xy -8.566453 -2.140823)
+				(xy -8.439361 -2.279441) (xy -8.299356 -2.403498) (xy -8.14689 -2.5126) (xy -7.982414 -2.606352)
+				(xy -7.957327 -2.618778) (xy -7.785229 -2.691916) (xy -7.609372 -2.746299) (xy -7.430965 -2.782069)
+				(xy -7.251217 -2.799366)
+			)
+			(stroke
+				(width 0)
+				(type solid)
+			)
+			(fill solid)
+			(layer "F.SilkS")
+			(uuid "9c939a4f-775c-4de7-9321-135914b878a2")
+		)
+		(fp_poly
+			(pts
+				(xy 2.770223 -1.43) (xy 2.828309 -1.414705) (xy 2.922722 -1.372178) (xy 3.014346 -1.312522) (xy 3.100913 -1.23814)
+				(xy 3.180155 -1.151435) (xy 3.249805 -1.054811) (xy 3.307597 -0.950669) (xy 3.340932 -0.871446)
+				(xy 3.3622 -0.810877) (xy 3.378197 -0.758369) (xy 3.389629 -0.709287) (xy 3.397205 -0.658997) (xy 3.401632 -0.602864)
+				(xy 3.403618 -0.536253) (xy 3.403889 -0.459154) (xy 3.403445 -0.391262) (xy 3.402414 -0.33885) (xy 3.40042 -0.29786)
+				(xy 3.397085 -0.264234) (xy 3.392031 -0.233915) (xy 3.384881 -0.202844) (xy 3.37742 -0.174805) (xy 3.331622 -0.039479)
+				(xy 3.270877 0.090118) (xy 3.196879 0.211765) (xy 3.11132 0.32324) (xy 3.015892 0.422319) (xy 2.912289 0.506783)
+				(xy 2.809641 0.570505) (xy 2.777983 0.586559) (xy 2.756545 0.593709) (xy 2.738521 0.592633) (xy 2.717104 0.584009)
+				(xy 2.709818 0.580455) (xy 2.67831 0.555045) (xy 2.660114 0.519364) (xy 2.657231 0.497492) (xy 2.66149 0.479019)
+				(xy 2.672598 0.450017) (xy 2.686436 0.420278) (xy 2.727758 0.317343) (xy 2.751906 0.208395) (xy 2.758879 0.096624)
+				(xy 2.748673 -0.014784) (xy 2.721287 -0.122641) (xy 2.686888 -0.204462) (xy 2.665757 -0.241973)
+				(xy 2.638237 -0.285098) (xy 2.610908 -0.323654) (xy 2.563683 -0.385885) (xy 2.580367 -0.4445) (xy 2.597714 -0.540094)
+				(xy 2.59668 -0.63673) (xy 2.578044 -0.731639) (xy 2.542588 -0.822047) (xy 2.526812 -0.847515) (xy 2.59295 -0.847515)
+				(xy 2.59323 -0.836057) (xy 2.601225 -0.815331) (xy 2.60278 -0.812239) (xy 2.625707 -0.752104) (xy 2.640246 -0.679744)
+				(xy 2.64593 -0.600794) (xy 2.64229 -0.52089) (xy 2.632149 -0.459186) (xy 2.616836 -0.391862) (xy 2.656305 -0.34193)
+				(xy 2.716806 -0.249869) (xy 2.762046 -0.14689) (xy 2.791344 -0.035083) (xy 2.804017 0.083462) (xy 2.804509 0.112346)
+				(xy 2.801674 0.192288) (xy 2.792073 0.261644) (xy 2.774079 0.328681) (xy 2.748863 0.395053) (xy 2.733992 0.430504)
+				(xy 2.720627 0.462472) (xy 2.71307 0.480645) (xy 2.707357 0.502998) (xy 2.714862 0.520641) (xy 2.720288 0.527049)
+				(xy 2.737362 0.541901) (xy 2.749392 0.547077) (xy 2.761682 0.542023) (xy 2.78633 0.528358) (xy 2.819451 0.508326)
+				(xy 2.848013 0.490148) (xy 2.916606 0.441511) (xy 2.970268 0.393325) (xy 3.013033 0.341339) (xy 3.048935 0.281302)
+				(xy 3.052103 0.27509) (xy 3.08425 0.203658) (xy 3.106933 0.133719) (xy 3.121271 0.059896) (xy 3.128383 -0.023189)
+				(xy 3.129634 -0.097693) (xy 3.128567 -0.163459) (xy 3.125815 -0.214962) (xy 3.120867 -0.257439)
+				(xy 3.11321 -0.296132) (xy 3.108399 -0.314981) (xy 3.068286 -0.43784) (xy 3.018697 -0.54472) (xy 3.007503 -0.564455)
+				(xy 2.973714 -0.6133) (xy 2.929291 -0.665039) (xy 2.878974 -0.715062) (xy 2.827506 -0.758764) (xy 2.779627 -0.791535)
+				(xy 2.76661 -0.798576) (xy 2.730186 -0.814768) (xy 2.690456 -0.829276) (xy 2.652113 -0.840776) (xy 2.619853 -0.847946)
+				(xy 2.59837 -0.849463) (xy 2.59295 -0.847515) (xy 2.526812 -0.847515) (xy 2.491091 -0.905183) (xy 2.432072 -0.971123)
+				(xy 2.393235 -1.004078) (xy 2.349477 -1.035354) (xy 2.305207 -1.062353) (xy 2.264836 -1.082477)
+				(xy 2.232771 -1.093128) (xy 2.223239 -1.094154) (xy 2.206327 -1.100567) (xy 2.203049 -1.120058)
+				(xy 2.2134 -1.153002) (xy 2.222656 -1.172616) (xy 2.267115 -1.241065) (xy 2.326791 -1.304215) (xy 2.397444 -1.358569)
+				(xy 2.474837 -1.400634) (xy 2.519757 -1.417588) (xy 2.600041 -1.434749) (xy 2.685994 -1.438863)
+			)
+			(stroke
+				(width 0)
+				(type solid)
+			)
+			(fill solid)
+			(layer "F.SilkS")
+			(uuid "33f4b37c-a13a-4418-918e-b9ccacf23f0f")
+		)
+		(fp_poly
+			(pts
+				(xy 7.871912 -1.957802) (xy 7.947421 -1.953269) (xy 8.011528 -1.946058) (xy 8.040077 -1.940946)
+				(xy 8.198101 -1.897345) (xy 8.348437 -1.836158) (xy 8.489805 -1.758077) (xy 8.620929 -1.663792)
+				(xy 8.72397 -1.570831) (xy 8.759563 -1.53397) (xy 8.794694 -1.495396) (xy 8.823815 -1.461283) (xy 8.833725 -1.448711)
+				(xy 8.872172 -1.397844) (xy 8.250451 -0.648641) (xy 8.140467 -0.515961) (xy 8.042669 -0.397667)
+				(xy 7.956626 -0.293224) (xy 7.881912 -0.202099) (xy 7.818095 -0.123758) (xy 7.764746 -0.057666)
+				(xy 7.721436 -0.00329) (xy 7.687736 0.039905) (xy 7.663217 0.072454) (xy 7.647448 0.094889) (xy 7.640001 0.107745)
+				(xy 7.639516 0.111338) (xy 7.654511 0.11618) (xy 7.68731 0.119571) (xy 7.736223 0.121388) (xy 7.779247 0.121655)
+				(xy 7.835078 0.12103) (xy 7.876906 0.119127) (xy 7.91026 0.115209) (xy 7.940669 0.108539) (xy 7.973659 0.098381)
+				(xy 7.986252 0.09407) (xy 8.032614 0.076013) (xy 8.080882 0.05412) (xy 8.121044 0.032951) (xy 8.123021 0.031777)
+				(xy 8.169454 -0.000898) (xy 8.219373 -0.044043) (xy 8.267977 -0.092773) (xy 8.310468 -0.142204)
+				(xy 8.342045 -0.187452) (xy 8.346862 -0.196006) (xy 8.362338 -0.224606) (xy 8.37405 -0.24555) (xy 8.378898 -0.253472)
+				(xy 8.387594 -0.248793) (xy 8.409384 -0.229799) (xy 8.444167 -0.19659) (xy 8.491844 -0.149263) (xy 8.552317 -0.087917)
+				(xy 8.625485 -0.01265) (xy 8.696598 0.06117) (xy 8.863193 0.234687) (xy 8.835077 0.27575) (xy 8.805457 0.313703)
+				(xy 8.764187 0.359353) (xy 8.715304 0.408748) (xy 8.662847 0.457934) (xy 8.61085 0.502961) (xy 8.570964 0.534321)
+				(xy 8.527525 0.56418) (xy 8.474267 0.597402) (xy 8.419116 0.629172) (xy 8.385349 0.647098) (xy 8.249224 0.708075)
+				(xy 8.113024 0.752152) (xy 7.973404 0.779999) (xy 7.827017 0.792288) (xy 7.673731 0.789881) (xy 7.523814 0.772042)
+				(xy 7.378756 0.736099) (xy 7.23631 0.681444) (xy 7.186603 0.657755) (xy 7.047554 0.578925) (xy 6.923882 0.488892)
+				(xy 6.8143 0.386368) (xy 6.717524 0.270067) (xy 6.632267 0.138701) (xy 6.590233 0.060381) (xy 6.536541 -0.060691)
+				(xy 6.49609 -0.185356) (xy 6.466668 -0.320463) (xy 6.466051 -0.324055) (xy 6.455546 -0.407839) (xy 6.449817 -0.503809)
+				(xy 6.44886 -0.595885) (xy 7.123218 -0.595885) (xy 7.124591 -0.513089) (xy 7.131716 -0.435669) (xy 7.135236 -0.413101)
+				(xy 7.145893 -0.359771) (xy 7.157715 -0.313356) (xy 7.169688 -0.276907) (xy 7.180801 -0.25348) (xy 7.190042 -0.246126)
+				(xy 7.190527 -0.246267) (xy 7.197582 -0.254363) (xy 7.21537 -0.276778) (xy 7.242893 -0.312203) (xy 7.279152 -0.359332)
+				(xy 7.323148 -0.416859) (xy 7.373883 -0.483476) (xy 7.430359 -0.557878) (xy 7.491576 -0.638756)
+				(xy 7.556536 -0.724806) (xy 7.580886 -0.757116) (xy 7.963549 -1.265116) (xy 7.921217 -1.27793) (xy 7.885091 -1.284612)
+				(xy 7.832248 -1.287645) (xy 7.76147 -1.287098) (xy 7.756769 -1.286957) (xy 7.698527 -1.284413) (xy 7.653861 -1.280339)
+				(xy 7.616818 -1.273837) (xy 7.581444 -1.26401) (xy 7.563 -1.257738) (xy 7.459208 -1.211238) (xy 7.368264 -1.150051)
+				(xy 7.290324 -1.074345) (xy 7.225544 -0.984285) (xy 7.17408 -0.880039) (xy 7.151198 -0.815731) (xy 7.136762 -0.753286)
+				(xy 7.127355 -0.677977) (xy 7.123218 -0.595885) (xy 6.44886 -0.595885) (xy 6.448754 -0.606054) (xy 6.45225 -0.708663)
+				(xy 6.460196 -0.805723) (xy 6.472485 -0.891323) (xy 6.476833 -0.913098) (xy 6.520496 -1.07219) (xy 6.58071 -1.22093)
+				(xy 6.657445 -1.359262) (xy 6.750673 -1.487133) (xy 6.837888 -1.582636) (xy 6.955883 -1.68783) (xy 7.081413 -1.775714)
+				(xy 7.216022 -1.847117) (xy 7.361251 -1.902869) (xy 7.502769 -1.940451) (xy 7.558389 -1.94924) (xy 7.628239 -1.955375)
+				(xy 7.707195 -1.95885) (xy 7.790128 -1.95966)
+			)
+			(stroke
+				(width 0)
+				(type solid)
+			)
+			(fill solid)
+			(layer "F.SilkS")
+			(uuid "56700f3a-b8ae-4245-b232-5544119b023a")
+		)
+		(fp_poly
+			(pts
+				(xy -5.09696 -1.086827) (xy -5.096219 -0.943219) (xy -5.095484 -0.8178) (xy -5.094721 -0.70922)
+				(xy -5.093898 -0.616129) (xy -5.092982 -0.537176) (xy -5.091941 -0.471014) (xy -5.090741 -0.416291)
+				(xy -5.08935 -0.371657) (xy -5.087736 -0.335764) (xy -5.085865 -0.307261) (xy -5.083705 -0.284798)
+				(xy -5.081224 -0.267026) (xy -5.078387 -0.252595) (xy -5.076571 -0.245238) (xy -5.042446 -0.1503)
+				(xy -4.994066 -0.066938) (xy -4.93274 0.003514) (xy -4.859777 0.059723) (xy -4.776487 0.100355)
+				(xy -4.72097 0.116967) (xy -4.657536 0.126763) (xy -4.588884 0.129019) (xy -4.522247 0.123985) (xy -4.464859 0.111911)
+				(xy -4.452468 0.107695) (xy -4.364468 0.064452) (xy -4.28497 0.005228) (xy -4.216212 -0.067449)
+				(xy -4.160429 -0.151056) (xy -4.119859 -0.243064) (xy -4.10866 -0.280615) (xy -4.105789 -0.293685)
+				(xy -4.103292 -0.310127) (xy -4.101143 -0.331286) (xy -4.099318 -0.358504) (xy -4.097791 -0.393125)
+				(xy -4.096538 -0.436492) (xy -4.095533 -0.489949) (xy -4.09475 -0.554839) (xy -4.094166 -0.632505)
+				(xy -4.093755 -0.724291) (xy -4.093491 -0.83154) (xy -4.093351 -0.955596) (xy -4.093308 -1.097802)
+				(xy -4.093308 -1.102891) (xy -4.093308 -1.865923) (xy -3.755948 -1.865923) (xy -3.418588 -1.865923)
+				(xy -3.421834 -0.632558) (xy -3.422326 -0.450873) (xy -3.422808 -0.287667) (xy -3.423297 -0.141879)
+				(xy -3.423809 -0.012449) (xy -3.42436 0.101682) (xy -3.424968 0.201574) (xy -3.425649 0.288287)
+				(xy -3.426419 0.362881) (xy -3.427296 0.426417) (xy -3.428297 0.479954) (xy -3.429437 0.524552)
+				(xy -3.430733 0.561271) (xy -3.432203 0.591171) (xy -3.433862 0.615312) (xy -3.435728 0.634753)
+				(xy -3.437818 0.650556) (xy -3.440147 0.663779) (xy -3.442397 0.674077) (xy -3.487421 0.831417)
+				(xy -3.54536 0.97526) (xy -3.617366 1.107708) (xy -3.704592 1.230863) (xy -3.808189 1.346828) (xy -3.814466 1.35312)
+				(xy -3.933151 1.460097) (xy -4.057208 1.549077) (xy -4.188971 1.621363) (xy -4.33077 1.678258) (xy -4.464539 1.716352)
+				(xy -4.498467 1.724038) (xy -4.529804 1.73001) (xy -4.561889 1.734533) (xy -4.59806 1.73787) (xy -4.641654 1.740285)
+				(xy -4.696011 1.742043) (xy -4.764469 1.743408) (xy -4.816231 1.744184) (xy -4.884826 1.744935)
+				(xy -4.947543 1.745239) (xy -5.001549 1.745111) (xy -5.044014 1.744568) (xy -5.072105 1.743628)
+				(xy -5.082442 1.742569) (xy -5.087057 1.740041) (xy -5.090762 1.734187) (xy -5.093656 1.723058)
+				(xy -5.095838 1.704705) (xy -5.097407 1.677178) (xy -5.098462 1.638527) (xy -5.099102 1.586803)
+				(xy -5.099426 1.520056) (xy -5.099534 1.436335) (xy -5.099539 1.406053) (xy -5.099539 1.074615)
+				(xy -4.872014 1.074615) (xy -4.787119 1.074247) (xy -4.718444 1.072791) (xy -4.662682 1.069724)
+				(xy -4.616522 1.06452) (xy -4.576655 1.056655) (xy -4.539772 1.045604) (xy -4.502563 1.030843) (xy -4.46172 1.011845)
+				(xy -4.454769 1.008447) (xy -4.394485 0.971925) (xy -4.332583 0.922294) (xy -4.273006 0.863785)
+				(xy -4.2197 0.800629) (xy -4.176609 0.737057) (xy -4.148763 0.680226) (xy -4.146093 0.672088) (xy -4.146936 0.667351)
+				(xy -4.153679 0.666678) (xy -4.168709 0.670732) (xy -4.194413 0.680175) (xy -4.233177 0.69567) (xy -4.287388 0.717878)
+				(xy -4.293577 0.720423) (xy -4.359576 0.746836) (xy -4.412926 0.76598) (xy -4.458627 0.778964) (xy -4.501678 0.7869)
+				(xy -4.54708 0.790899) (xy -4.599833 0.792072) (xy -4.615973 0.792048) (xy -4.756539 0.783761) (xy -4.889743 0.759594)
+				(xy -5.019916 0.71851) (xy -5.134779 0.667847) (xy -5.260107 0.594955) (xy -5.373208 0.50726) (xy -5.473314 0.405784)
+				(xy -5.559657 0.29155) (xy -5.63147 0.165581) (xy -5.687983 0.028898) (xy -5.72843 -0.117476) (xy -5.729883 -0.124388)
+				(xy -5.735951 -0.156958) (xy -5.74128 -0.193383) (xy -5.745915 -0.235009) (xy -5.749899 -0.283186)
+				(xy -5.753275 -0.339262) (xy -5.756088 -0.404585) (xy -5.75838 -0.480504) (xy -5.760195 -0.568367)
+				(xy -5.761577 -0.669523) (xy -5.762568 -0.78532) (xy -5.763214 -0.917106) (xy -5.763557 -1.06623)
+				(xy -5.763637 -1.169866) (xy -5.763846 -1.865923) (xy -5.432321 -1.865923) (xy -5.100796 -1.865923)
+			)
+			(stroke
+				(width 0)
+				(type solid)
+			)
+			(fill solid)
+			(layer "F.SilkS")
+			(uuid "ae00f6c7-054a-4591-9b4e-0b5d56d37a4b")
 		)
 	)
 	(footprint "MountingHole:MountingHole_2.2mm_M2_DIN965_Pad"
@@ -6645,7 +8108,7 @@
 		)
 		(fp_arc
 			(start 45.638712 -1.85392)
-			(mid 45.734863 -1.817952)
+			(mid 45.734863 -1.817951)
 			(end 45.829 -1.777)
 			(stroke
 				(width 0.12)
@@ -6656,7 +8119,7 @@
 		)
 		(fp_arc
 			(start 40.638712 -1.85392)
-			(mid 40.734863 -1.817952)
+			(mid 40.734863 -1.817951)
 			(end 40.829 -1.777)
 			(stroke
 				(width 0.12)
@@ -6667,7 +8130,7 @@
 		)
 		(fp_arc
 			(start 35.638712 -1.85392)
-			(mid 35.734863 -1.817952)
+			(mid 35.734863 -1.817951)
 			(end 35.829 -1.777)
 			(stroke
 				(width 0.12)
@@ -6678,7 +8141,7 @@
 		)
 		(fp_arc
 			(start 30.638712 -1.85392)
-			(mid 30.734863 -1.817952)
+			(mid 30.734863 -1.817951)
 			(end 30.829 -1.777)
 			(stroke
 				(width 0.12)
@@ -6689,7 +8152,7 @@
 		)
 		(fp_arc
 			(start 25.638712 -1.85392)
-			(mid 25.734863 -1.817952)
+			(mid 25.734863 -1.817951)
 			(end 25.829 -1.777)
 			(stroke
 				(width 0.12)
@@ -6700,7 +8163,7 @@
 		)
 		(fp_arc
 			(start 20.638712 -1.85392)
-			(mid 20.734863 -1.817952)
+			(mid 20.734863 -1.817951)
 			(end 20.829 -1.777)
 			(stroke
 				(width 0.12)
@@ -6711,7 +8174,7 @@
 		)
 		(fp_arc
 			(start 15.638712 -1.85392)
-			(mid 15.734863 -1.817952)
+			(mid 15.734863 -1.817951)
 			(end 15.829 -1.777)
 			(stroke
 				(width 0.12)
@@ -6722,7 +8185,7 @@
 		)
 		(fp_arc
 			(start 10.638712 -1.85392)
-			(mid 10.734863 -1.817952)
+			(mid 10.734863 -1.817951)
 			(end 10.829 -1.777)
 			(stroke
 				(width 0.12)
@@ -6733,7 +8196,7 @@
 		)
 		(fp_arc
 			(start 5.638712 -1.85392)
-			(mid 5.734863 -1.817952)
+			(mid 5.734863 -1.817951)
 			(end 5.829 -1.777)
 			(stroke
 				(width 0.12)
@@ -6843,7 +8306,7 @@
 		)
 		(fp_arc
 			(start 45.920652 -1.730826)
-			(mid 45.995273 -1.68902)
+			(mid 45.995274 -1.689022)
 			(end 46.068 -1.644)
 			(stroke
 				(width 0.12)
@@ -6854,7 +8317,7 @@
 		)
 		(fp_arc
 			(start 40.920652 -1.730826)
-			(mid 40.995273 -1.68902)
+			(mid 40.995274 -1.689022)
 			(end 41.068 -1.644)
 			(stroke
 				(width 0.12)
@@ -6865,7 +8328,7 @@
 		)
 		(fp_arc
 			(start 35.920652 -1.730826)
-			(mid 35.995273 -1.68902)
+			(mid 35.995274 -1.689022)
 			(end 36.068 -1.644)
 			(stroke
 				(width 0.12)
@@ -6876,7 +8339,7 @@
 		)
 		(fp_arc
 			(start 30.920652 -1.730826)
-			(mid 30.995273 -1.68902)
+			(mid 30.995274 -1.689022)
 			(end 31.068 -1.644)
 			(stroke
 				(width 0.12)
@@ -6887,7 +8350,7 @@
 		)
 		(fp_arc
 			(start 25.920652 -1.730826)
-			(mid 25.995273 -1.68902)
+			(mid 25.995274 -1.689022)
 			(end 26.068 -1.644)
 			(stroke
 				(width 0.12)
@@ -6898,7 +8361,7 @@
 		)
 		(fp_arc
 			(start 20.920652 -1.730826)
-			(mid 20.995273 -1.68902)
+			(mid 20.995274 -1.689022)
 			(end 21.068 -1.644)
 			(stroke
 				(width 0.12)
@@ -6909,7 +8372,7 @@
 		)
 		(fp_arc
 			(start 15.920652 -1.730826)
-			(mid 15.995273 -1.68902)
+			(mid 15.995274 -1.689022)
 			(end 16.068 -1.644)
 			(stroke
 				(width 0.12)
@@ -6920,7 +8383,7 @@
 		)
 		(fp_arc
 			(start 10.920652 -1.730826)
-			(mid 10.995273 -1.68902)
+			(mid 10.995274 -1.689022)
 			(end 11.068 -1.644)
 			(stroke
 				(width 0.12)
@@ -6931,7 +8394,7 @@
 		)
 		(fp_arc
 			(start 5.920652 -1.730826)
-			(mid 5.995273 -1.68902)
+			(mid 5.995274 -1.689022)
 			(end 6.068 -1.644)
 			(stroke
 				(width 0.12)
@@ -6942,7 +8405,7 @@
 		)
 		(fp_arc
 			(start 43.93363 -1.644317)
-			(mid 44.00637 -1.689264)
+			(mid 44.006369 -1.689267)
 			(end 44.081 -1.731)
 			(stroke
 				(width 0.12)
@@ -6953,7 +8416,7 @@
 		)
 		(fp_arc
 			(start 38.93363 -1.644317)
-			(mid 39.00637 -1.689264)
+			(mid 39.006369 -1.689267)
 			(end 39.081 -1.731)
 			(stroke
 				(width 0.12)
@@ -6964,7 +8427,7 @@
 		)
 		(fp_arc
 			(start 33.93363 -1.644317)
-			(mid 34.00637 -1.689264)
+			(mid 34.006369 -1.689267)
 			(end 34.081 -1.731)
 			(stroke
 				(width 0.12)
@@ -6975,7 +8438,7 @@
 		)
 		(fp_arc
 			(start 28.93363 -1.644317)
-			(mid 29.00637 -1.689264)
+			(mid 29.006369 -1.689267)
 			(end 29.081 -1.731)
 			(stroke
 				(width 0.12)
@@ -6986,7 +8449,7 @@
 		)
 		(fp_arc
 			(start 23.93363 -1.644317)
-			(mid 24.00637 -1.689264)
+			(mid 24.006369 -1.689267)
 			(end 24.081 -1.731)
 			(stroke
 				(width 0.12)
@@ -6997,7 +8460,7 @@
 		)
 		(fp_arc
 			(start 18.93363 -1.644317)
-			(mid 19.00637 -1.689264)
+			(mid 19.006369 -1.689267)
 			(end 19.081 -1.731)
 			(stroke
 				(width 0.12)
@@ -7008,7 +8471,7 @@
 		)
 		(fp_arc
 			(start 13.93363 -1.644317)
-			(mid 14.00637 -1.689264)
+			(mid 14.006369 -1.689267)
 			(end 14.081 -1.731)
 			(stroke
 				(width 0.12)
@@ -7019,7 +8482,7 @@
 		)
 		(fp_arc
 			(start 8.93363 -1.644317)
-			(mid 9.00637 -1.689264)
+			(mid 9.006369 -1.689267)
 			(end 9.081 -1.731)
 			(stroke
 				(width 0.12)
@@ -7030,7 +8493,7 @@
 		)
 		(fp_arc
 			(start 3.93363 -1.644317)
-			(mid 4.00637 -1.689264)
+			(mid 4.006369 -1.689267)
 			(end 4.081 -1.731)
 			(stroke
 				(width 0.12)
@@ -7041,7 +8504,7 @@
 		)
 		(fp_arc
 			(start 46.096479 -1.625751)
-			(mid 46.166349 -1.576376)
+			(mid 46.166348 -1.576374)
 			(end 46.234 -1.524)
 			(stroke
 				(width 0.12)
@@ -7052,7 +8515,7 @@
 		)
 		(fp_arc
 			(start 41.096479 -1.625751)
-			(mid 41.166349 -1.576376)
+			(mid 41.166348 -1.576374)
 			(end 41.234 -1.524)
 			(stroke
 				(width 0.12)
@@ -7063,7 +8526,7 @@
 		)
 		(fp_arc
 			(start 36.096479 -1.625751)
-			(mid 36.166349 -1.576376)
+			(mid 36.166348 -1.576374)
 			(end 36.234 -1.524)
 			(stroke
 				(width 0.12)
@@ -7074,7 +8537,7 @@
 		)
 		(fp_arc
 			(start 31.096479 -1.625751)
-			(mid 31.166349 -1.576376)
+			(mid 31.166348 -1.576374)
 			(end 31.234 -1.524)
 			(stroke
 				(width 0.12)
@@ -7085,7 +8548,7 @@
 		)
 		(fp_arc
 			(start 26.096479 -1.625751)
-			(mid 26.166349 -1.576376)
+			(mid 26.166348 -1.576374)
 			(end 26.234 -1.524)
 			(stroke
 				(width 0.12)
@@ -7096,7 +8559,7 @@
 		)
 		(fp_arc
 			(start 21.096479 -1.625751)
-			(mid 21.166349 -1.576376)
+			(mid 21.166348 -1.576374)
 			(end 21.234 -1.524)
 			(stroke
 				(width 0.12)
@@ -7107,7 +8570,7 @@
 		)
 		(fp_arc
 			(start 16.096479 -1.625751)
-			(mid 16.166349 -1.576376)
+			(mid 16.166348 -1.576374)
 			(end 16.234 -1.524)
 			(stroke
 				(width 0.12)
@@ -7118,7 +8581,7 @@
 		)
 		(fp_arc
 			(start 11.096479 -1.625751)
-			(mid 11.166349 -1.576376)
+			(mid 11.166348 -1.576374)
 			(end 11.234 -1.524)
 			(stroke
 				(width 0.12)
@@ -7129,7 +8592,7 @@
 		)
 		(fp_arc
 			(start 6.096479 -1.625751)
-			(mid 6.166349 -1.576376)
+			(mid 6.166348 -1.576374)
 			(end 6.234 -1.524)
 			(stroke
 				(width 0.12)
@@ -7536,7 +8999,7 @@
 		)
 		(fp_arc
 			(start 43.521202 -1.287012)
-			(mid 43.578748 -1.350292)
+			(mid 43.578747 -1.350293)
 			(end 43.639 -1.411)
 			(stroke
 				(width 0.12)
@@ -7547,7 +9010,7 @@
 		)
 		(fp_arc
 			(start 38.521202 -1.287012)
-			(mid 38.578748 -1.350292)
+			(mid 38.578747 -1.350293)
 			(end 38.639 -1.411)
 			(stroke
 				(width 0.12)
@@ -7558,7 +9021,7 @@
 		)
 		(fp_arc
 			(start 33.521202 -1.287012)
-			(mid 33.578748 -1.350292)
+			(mid 33.578747 -1.350293)
 			(end 33.639 -1.411)
 			(stroke
 				(width 0.12)
@@ -7569,7 +9032,7 @@
 		)
 		(fp_arc
 			(start 28.521202 -1.287012)
-			(mid 28.578748 -1.350292)
+			(mid 28.578747 -1.350293)
 			(end 28.639 -1.411)
 			(stroke
 				(width 0.12)
@@ -7580,7 +9043,7 @@
 		)
 		(fp_arc
 			(start 23.521202 -1.287012)
-			(mid 23.578748 -1.350292)
+			(mid 23.578747 -1.350293)
 			(end 23.639 -1.411)
 			(stroke
 				(width 0.12)
@@ -7591,7 +9054,7 @@
 		)
 		(fp_arc
 			(start 18.521202 -1.287012)
-			(mid 18.578748 -1.350292)
+			(mid 18.578747 -1.350293)
 			(end 18.639 -1.411)
 			(stroke
 				(width 0.12)
@@ -7602,7 +9065,7 @@
 		)
 		(fp_arc
 			(start 13.521202 -1.287012)
-			(mid 13.578748 -1.350292)
+			(mid 13.578747 -1.350293)
 			(end 13.639 -1.411)
 			(stroke
 				(width 0.12)
@@ -7613,7 +9076,7 @@
 		)
 		(fp_arc
 			(start 8.521202 -1.287012)
-			(mid 8.578748 -1.350292)
+			(mid 8.578747 -1.350293)
 			(end 8.639 -1.411)
 			(stroke
 				(width 0.12)
@@ -7624,7 +9087,7 @@
 		)
 		(fp_arc
 			(start 3.521202 -1.287012)
-			(mid 3.578748 -1.350292)
+			(mid 3.578747 -1.350293)
 			(end 3.639 -1.411)
 			(stroke
 				(width 0.12)
@@ -8053,7 +9516,7 @@
 		)
 		(fp_arc
 			(start 46.566102 1.179628)
-			(mid 46.523978 1.233565)
+			(mid 46.523978 1.233564)
 			(end 46.48 1.286)
 			(stroke
 				(width 0.12)
@@ -8064,7 +9527,7 @@
 		)
 		(fp_arc
 			(start 41.566102 1.179628)
-			(mid 41.523978 1.233565)
+			(mid 41.523978 1.233564)
 			(end 41.48 1.286)
 			(stroke
 				(width 0.12)
@@ -8075,7 +9538,7 @@
 		)
 		(fp_arc
 			(start 36.566102 1.179628)
-			(mid 36.523978 1.233565)
+			(mid 36.523978 1.233564)
 			(end 36.48 1.286)
 			(stroke
 				(width 0.12)
@@ -8086,7 +9549,7 @@
 		)
 		(fp_arc
 			(start 31.566102 1.179628)
-			(mid 31.523978 1.233565)
+			(mid 31.523978 1.233564)
 			(end 31.48 1.286)
 			(stroke
 				(width 0.12)
@@ -8097,7 +9560,7 @@
 		)
 		(fp_arc
 			(start 26.566102 1.179628)
-			(mid 26.523978 1.233565)
+			(mid 26.523978 1.233564)
 			(end 26.48 1.286)
 			(stroke
 				(width 0.12)
@@ -8108,7 +9571,7 @@
 		)
 		(fp_arc
 			(start 21.566102 1.179628)
-			(mid 21.523978 1.233565)
+			(mid 21.523978 1.233564)
 			(end 21.48 1.286)
 			(stroke
 				(width 0.12)
@@ -8119,7 +9582,7 @@
 		)
 		(fp_arc
 			(start 16.566102 1.179628)
-			(mid 16.523978 1.233565)
+			(mid 16.523978 1.233564)
 			(end 16.48 1.286)
 			(stroke
 				(width 0.12)
@@ -8130,7 +9593,7 @@
 		)
 		(fp_arc
 			(start 11.566102 1.179628)
-			(mid 11.523978 1.233565)
+			(mid 11.523978 1.233564)
 			(end 11.48 1.286)
 			(stroke
 				(width 0.12)
@@ -8141,7 +9604,7 @@
 		)
 		(fp_arc
 			(start 6.566102 1.179628)
-			(mid 6.523978 1.233565)
+			(mid 6.523978 1.233564)
 			(end 6.48 1.286)
 			(stroke
 				(width 0.12)
@@ -8251,7 +9714,7 @@
 		)
 		(fp_arc
 			(start 43.521125 1.286294)
-			(mid 43.477135 1.233898)
+			(mid 43.477135 1.233899)
 			(end 43.435 1.18)
 			(stroke
 				(width 0.12)
@@ -8262,7 +9725,7 @@
 		)
 		(fp_arc
 			(start 38.521125 1.286294)
-			(mid 38.477135 1.233898)
+			(mid 38.477135 1.233899)
 			(end 38.435 1.18)
 			(stroke
 				(width 0.12)
@@ -8273,7 +9736,7 @@
 		)
 		(fp_arc
 			(start 33.521125 1.286294)
-			(mid 33.477135 1.233898)
+			(mid 33.477135 1.233899)
 			(end 33.435 1.18)
 			(stroke
 				(width 0.12)
@@ -8284,7 +9747,7 @@
 		)
 		(fp_arc
 			(start 28.521125 1.286294)
-			(mid 28.477135 1.233898)
+			(mid 28.477135 1.233899)
 			(end 28.435 1.18)
 			(stroke
 				(width 0.12)
@@ -8295,7 +9758,7 @@
 		)
 		(fp_arc
 			(start 23.521125 1.286294)
-			(mid 23.477135 1.233898)
+			(mid 23.477135 1.233899)
 			(end 23.435 1.18)
 			(stroke
 				(width 0.12)
@@ -8306,7 +9769,7 @@
 		)
 		(fp_arc
 			(start 18.521125 1.286294)
-			(mid 18.477135 1.233898)
+			(mid 18.477135 1.233899)
 			(end 18.435 1.18)
 			(stroke
 				(width 0.12)
@@ -8317,7 +9780,7 @@
 		)
 		(fp_arc
 			(start 13.521125 1.286294)
-			(mid 13.477135 1.233898)
+			(mid 13.477135 1.233899)
 			(end 13.435 1.18)
 			(stroke
 				(width 0.12)
@@ -8328,7 +9791,7 @@
 		)
 		(fp_arc
 			(start 8.521125 1.286294)
-			(mid 8.477135 1.233898)
+			(mid 8.477135 1.233899)
 			(end 8.435 1.18)
 			(stroke
 				(width 0.12)
@@ -8339,7 +9802,7 @@
 		)
 		(fp_arc
 			(start 3.521125 1.286294)
-			(mid 3.477135 1.233898)
+			(mid 3.477135 1.233899)
 			(end 3.435 1.18)
 			(stroke
 				(width 0.12)
@@ -8449,7 +9912,7 @@
 		)
 		(fp_arc
 			(start 46.36213 1.410651)
-			(mid 46.299301 1.468722)
+			(mid 46.2993 1.468721)
 			(end 46.234 1.524)
 			(stroke
 				(width 0.12)
@@ -8460,7 +9923,7 @@
 		)
 		(fp_arc
 			(start 41.36213 1.410651)
-			(mid 41.299301 1.468722)
+			(mid 41.2993 1.468721)
 			(end 41.234 1.524)
 			(stroke
 				(width 0.12)
@@ -8471,7 +9934,7 @@
 		)
 		(fp_arc
 			(start 36.36213 1.410651)
-			(mid 36.299301 1.468722)
+			(mid 36.2993 1.468721)
 			(end 36.234 1.524)
 			(stroke
 				(width 0.12)
@@ -8482,7 +9945,7 @@
 		)
 		(fp_arc
 			(start 31.36213 1.410651)
-			(mid 31.299301 1.468722)
+			(mid 31.2993 1.468721)
 			(end 31.234 1.524)
 			(stroke
 				(width 0.12)
@@ -8493,7 +9956,7 @@
 		)
 		(fp_arc
 			(start 26.36213 1.410651)
-			(mid 26.299301 1.468722)
+			(mid 26.2993 1.468721)
 			(end 26.234 1.524)
 			(stroke
 				(width 0.12)
@@ -8504,7 +9967,7 @@
 		)
 		(fp_arc
 			(start 21.36213 1.410651)
-			(mid 21.299301 1.468722)
+			(mid 21.2993 1.468721)
 			(end 21.234 1.524)
 			(stroke
 				(width 0.12)
@@ -8515,7 +9978,7 @@
 		)
 		(fp_arc
 			(start 16.36213 1.410651)
-			(mid 16.299301 1.468722)
+			(mid 16.2993 1.468721)
 			(end 16.234 1.524)
 			(stroke
 				(width 0.12)
@@ -8526,7 +9989,7 @@
 		)
 		(fp_arc
 			(start 11.36213 1.410651)
-			(mid 11.299301 1.468722)
+			(mid 11.2993 1.468721)
 			(end 11.234 1.524)
 			(stroke
 				(width 0.12)
@@ -8537,7 +10000,7 @@
 		)
 		(fp_arc
 			(start 6.36213 1.410651)
-			(mid 6.299301 1.468722)
+			(mid 6.2993 1.468721)
 			(end 6.234 1.524)
 			(stroke
 				(width 0.12)
@@ -8647,7 +10110,7 @@
 		)
 		(fp_arc
 			(start 46.233457 1.523294)
-			(mid 46.165839 1.575648)
+			(mid 46.16584 1.575649)
 			(end 46.096 1.625)
 			(stroke
 				(width 0.12)
@@ -8658,7 +10121,7 @@
 		)
 		(fp_arc
 			(start 41.233457 1.523294)
-			(mid 41.165839 1.575648)
+			(mid 41.16584 1.575649)
 			(end 41.096 1.625)
 			(stroke
 				(width 0.12)
@@ -8669,7 +10132,7 @@
 		)
 		(fp_arc
 			(start 36.233457 1.523294)
-			(mid 36.165839 1.575648)
+			(mid 36.16584 1.575649)
 			(end 36.096 1.625)
 			(stroke
 				(width 0.12)
@@ -8680,7 +10143,7 @@
 		)
 		(fp_arc
 			(start 31.233457 1.523294)
-			(mid 31.165839 1.575648)
+			(mid 31.16584 1.575649)
 			(end 31.096 1.625)
 			(stroke
 				(width 0.12)
@@ -8691,7 +10154,7 @@
 		)
 		(fp_arc
 			(start 26.233457 1.523294)
-			(mid 26.165839 1.575648)
+			(mid 26.16584 1.575649)
 			(end 26.096 1.625)
 			(stroke
 				(width 0.12)
@@ -8702,7 +10165,7 @@
 		)
 		(fp_arc
 			(start 21.233457 1.523294)
-			(mid 21.165839 1.575648)
+			(mid 21.16584 1.575649)
 			(end 21.096 1.625)
 			(stroke
 				(width 0.12)
@@ -8713,7 +10176,7 @@
 		)
 		(fp_arc
 			(start 16.233457 1.523294)
-			(mid 16.165839 1.575648)
+			(mid 16.16584 1.575649)
 			(end 16.096 1.625)
 			(stroke
 				(width 0.12)
@@ -8724,7 +10187,7 @@
 		)
 		(fp_arc
 			(start 11.233457 1.523294)
-			(mid 11.165839 1.575648)
+			(mid 11.16584 1.575649)
 			(end 11.096 1.625)
 			(stroke
 				(width 0.12)
@@ -8735,7 +10198,7 @@
 		)
 		(fp_arc
 			(start 6.233457 1.523294)
-			(mid 6.165839 1.575648)
+			(mid 6.16584 1.575649)
 			(end 6.096 1.625)
 			(stroke
 				(width 0.12)
@@ -8944,7 +10407,7 @@
 		)
 		(fp_arc
 			(start 44.080344 1.730739)
-			(mid 44.005725 1.688977)
+			(mid 44.005725 1.688978)
 			(end 43.933 1.644)
 			(stroke
 				(width 0.12)
@@ -8955,7 +10418,7 @@
 		)
 		(fp_arc
 			(start 39.080344 1.730739)
-			(mid 39.005725 1.688977)
+			(mid 39.005725 1.688978)
 			(end 38.933 1.644)
 			(stroke
 				(width 0.12)
@@ -8966,7 +10429,7 @@
 		)
 		(fp_arc
 			(start 34.080344 1.730739)
-			(mid 34.005725 1.688977)
+			(mid 34.005725 1.688978)
 			(end 33.933 1.644)
 			(stroke
 				(width 0.12)
@@ -8977,7 +10440,7 @@
 		)
 		(fp_arc
 			(start 29.080344 1.730739)
-			(mid 29.005725 1.688977)
+			(mid 29.005725 1.688978)
 			(end 28.933 1.644)
 			(stroke
 				(width 0.12)
@@ -8988,7 +10451,7 @@
 		)
 		(fp_arc
 			(start 24.080344 1.730739)
-			(mid 24.005725 1.688977)
+			(mid 24.005725 1.688978)
 			(end 23.933 1.644)
 			(stroke
 				(width 0.12)
@@ -8999,7 +10462,7 @@
 		)
 		(fp_arc
 			(start 19.080344 1.730739)
-			(mid 19.005725 1.688977)
+			(mid 19.005725 1.688978)
 			(end 18.933 1.644)
 			(stroke
 				(width 0.12)
@@ -9010,7 +10473,7 @@
 		)
 		(fp_arc
 			(start 14.080344 1.730739)
-			(mid 14.005725 1.688977)
+			(mid 14.005725 1.688978)
 			(end 13.933 1.644)
 			(stroke
 				(width 0.12)
@@ -9021,7 +10484,7 @@
 		)
 		(fp_arc
 			(start 9.080344 1.730739)
-			(mid 9.005725 1.688977)
+			(mid 9.005725 1.688978)
 			(end 8.933 1.644)
 			(stroke
 				(width 0.12)
@@ -9032,7 +10495,7 @@
 		)
 		(fp_arc
 			(start 4.080344 1.730739)
-			(mid 4.005725 1.688977)
+			(mid 4.005725 1.688978)
 			(end 3.933 1.644)
 			(stroke
 				(width 0.12)
@@ -9043,7 +10506,7 @@
 		)
 		(fp_arc
 			(start 45.829295 1.77705)
-			(mid 45.735154 1.818015)
+			(mid 45.735155 1.818016)
 			(end 45.639 1.854)
 			(stroke
 				(width 0.12)
@@ -9054,7 +10517,7 @@
 		)
 		(fp_arc
 			(start 40.829295 1.77705)
-			(mid 40.735154 1.818015)
+			(mid 40.735155 1.818016)
 			(end 40.639 1.854)
 			(stroke
 				(width 0.12)
@@ -9065,7 +10528,7 @@
 		)
 		(fp_arc
 			(start 35.829295 1.77705)
-			(mid 35.735154 1.818015)
+			(mid 35.735155 1.818016)
 			(end 35.639 1.854)
 			(stroke
 				(width 0.12)
@@ -9076,7 +10539,7 @@
 		)
 		(fp_arc
 			(start 30.829295 1.77705)
-			(mid 30.735154 1.818015)
+			(mid 30.735155 1.818016)
 			(end 30.639 1.854)
 			(stroke
 				(width 0.12)
@@ -9087,7 +10550,7 @@
 		)
 		(fp_arc
 			(start 25.829295 1.77705)
-			(mid 25.735154 1.818015)
+			(mid 25.735155 1.818016)
 			(end 25.639 1.854)
 			(stroke
 				(width 0.12)
@@ -9098,7 +10561,7 @@
 		)
 		(fp_arc
 			(start 20.829295 1.77705)
-			(mid 20.735154 1.818015)
+			(mid 20.735155 1.818016)
 			(end 20.639 1.854)
 			(stroke
 				(width 0.12)
@@ -9109,7 +10572,7 @@
 		)
 		(fp_arc
 			(start 15.829295 1.77705)
-			(mid 15.735154 1.818015)
+			(mid 15.735155 1.818016)
 			(end 15.639 1.854)
 			(stroke
 				(width 0.12)
@@ -9120,7 +10583,7 @@
 		)
 		(fp_arc
 			(start 10.829295 1.77705)
-			(mid 10.735154 1.818015)
+			(mid 10.735155 1.818016)
 			(end 10.639 1.854)
 			(stroke
 				(width 0.12)
@@ -9131,7 +10594,7 @@
 		)
 		(fp_arc
 			(start 5.829295 1.77705)
-			(mid 5.735154 1.818015)
+			(mid 5.735155 1.818016)
 			(end 5.639 1.854)
 			(stroke
 				(width 0.12)
@@ -9362,7 +10825,7 @@
 		)
 		(fp_arc
 			(start 45.000479 1.960685)
-			(mid 44.744554 1.943974)
+			(mid 44.744554 1.943973)
 			(end 44.493 1.894)
 			(stroke
 				(width 0.12)
@@ -9373,7 +10836,7 @@
 		)
 		(fp_arc
 			(start 40.000479 1.960685)
-			(mid 39.744554 1.943974)
+			(mid 39.744554 1.943973)
 			(end 39.493 1.894)
 			(stroke
 				(width 0.12)
@@ -9384,7 +10847,7 @@
 		)
 		(fp_arc
 			(start 35.000479 1.960685)
-			(mid 34.744554 1.943974)
+			(mid 34.744554 1.943973)
 			(end 34.493 1.894)
 			(stroke
 				(width 0.12)
@@ -9395,7 +10858,7 @@
 		)
 		(fp_arc
 			(start 30.000479 1.960685)
-			(mid 29.744554 1.943974)
+			(mid 29.744554 1.943973)
 			(end 29.493 1.894)
 			(stroke
 				(width 0.12)
@@ -9406,7 +10869,7 @@
 		)
 		(fp_arc
 			(start 25.000479 1.960685)
-			(mid 24.744554 1.943974)
+			(mid 24.744554 1.943973)
 			(end 24.493 1.894)
 			(stroke
 				(width 0.12)
@@ -9417,7 +10880,7 @@
 		)
 		(fp_arc
 			(start 20.000479 1.960685)
-			(mid 19.744554 1.943974)
+			(mid 19.744554 1.943973)
 			(end 19.493 1.894)
 			(stroke
 				(width 0.12)
@@ -9428,7 +10891,7 @@
 		)
 		(fp_arc
 			(start 15.000479 1.960685)
-			(mid 14.744554 1.943974)
+			(mid 14.744554 1.943973)
 			(end 14.493 1.894)
 			(stroke
 				(width 0.12)
@@ -9439,7 +10902,7 @@
 		)
 		(fp_arc
 			(start 10.000479 1.960685)
-			(mid 9.744554 1.943974)
+			(mid 9.744554 1.943973)
 			(end 9.493 1.894)
 			(stroke
 				(width 0.12)
@@ -9450,7 +10913,7 @@
 		)
 		(fp_arc
 			(start 5.000479 1.960685)
-			(mid 4.744554 1.943974)
+			(mid 4.744554 1.943973)
 			(end 4.493 1.894)
 			(stroke
 				(width 0.12)
@@ -10034,52 +11497,92 @@
 		(uuid "b117e7cc-7681-4761-984f-c0b0c911b21b")
 	)
 	(segment
+		(start 207.0542 114.984)
+		(end 208.71 114.984)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 1)
+		(uuid "02a99958-b429-4cca-b761-080bd5fa302d")
+	)
+	(segment
+		(start 206.6474 69.984)
+		(end 207.0542 69.984)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 1)
+		(uuid "1330392a-3b43-4bd3-8f7b-79ccbf2dd378")
+	)
+	(segment
+		(start 211.1756 128.0668)
+		(end 206.9592 128.0668)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 1)
+		(uuid "133f5e5b-4e20-46d9-9f5d-b45b1461ebec")
+	)
+	(segment
+		(start 197.104 70.0024)
+		(end 207.0358 70.0024)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 1)
+		(uuid "2d348f4c-3aa0-4a90-a880-24ee563bb0d5")
+	)
+	(segment
 		(start 192.045 125.75)
 		(end 192.045 127.45)
 		(width 0.2)
 		(layer "F.Cu")
 		(net 1)
-		(uuid "111a6c52-ef87-4c26-a622-59279e775239")
+		(uuid "32f63ad0-d6ec-463e-b379-2da50faa85c6")
 	)
 	(segment
-		(start 210.6775 119.1775)
-		(end 207 115.5)
+		(start 211.5312 127.7112)
+		(end 211.1756 128.0668)
 		(width 0.2)
 		(layer "F.Cu")
 		(net 1)
-		(uuid "1d1c8554-fefe-434a-9059-4ea19283dd7e")
+		(uuid "33cf1e61-626f-410c-86a3-d995383b2ac1")
 	)
 	(segment
-		(start 206.905 63)
-		(end 206.905 70.405)
+		(start 206.9592 62.484)
+		(end 206.9592 69.889)
 		(width 0.2)
 		(layer "F.Cu")
 		(net 1)
 		(uuid "457fdcb0-011f-49ff-bdfe-dba115898faa")
 	)
 	(segment
-		(start 206.905 115.5)
-		(end 206.905 70.5)
+		(start 204.9975 127.1329)
+		(end 204.9975 125.75)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 1)
+		(uuid "493cf49f-69c5-49f3-a9fe-68b64341a459")
+	)
+	(segment
+		(start 206.9592 114.984)
+		(end 206.9592 69.984)
 		(width 0.2)
 		(layer "F.Cu")
 		(net 1)
 		(uuid "4ad74813-b272-4ead-bbb8-15b06998ffa5")
 	)
 	(segment
-		(start 206.905 70.405)
-		(end 207 70.5)
+		(start 203.8764 128)
+		(end 204.9975 126.8789)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 1)
+		(uuid "5a8f3718-63c4-43f2-8b6f-d0b4362ac64a")
+	)
+	(segment
+		(start 206.9592 69.889)
+		(end 207.0542 69.984)
 		(width 0.2)
 		(layer "F.Cu")
 		(net 1)
 		(uuid "64b96832-62af-4b7f-bbce-cf03e8a34248")
-	)
-	(segment
-		(start 192.595 128)
-		(end 204.5 128)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 1)
-		(uuid "6609745b-2606-4090-81d4-aa50c5100aa6")
 	)
 	(segment
 		(start 204.5 126.2475)
@@ -10090,20 +11593,20 @@
 		(uuid "689b23a9-6319-4fb8-9beb-e51ca44a4120")
 	)
 	(segment
-		(start 192.045 127.45)
-		(end 192.595 128)
+		(start 204.9975 126.1051)
+		(end 204.9975 125.75)
 		(width 0.2)
 		(layer "F.Cu")
 		(net 1)
-		(uuid "74566690-994e-4d98-906d-3a21a6172326")
+		(uuid "96289c9c-840e-43a3-b14f-e66539e812de")
 	)
 	(segment
-		(start 204.9975 125.75)
-		(end 206.7975 127.55)
+		(start 192.595 128)
+		(end 203.8764 128)
 		(width 0.2)
 		(layer "F.Cu")
 		(net 1)
-		(uuid "85126b29-2919-4f72-99ae-2bf8e87e40e7")
+		(uuid "9f21c2af-3411-4475-862c-4b7028f258cc")
 	)
 	(segment
 		(start 190.245 127.55)
@@ -10114,28 +11617,12 @@
 		(uuid "a2b695d2-a5e9-45f4-957f-231f8ece22e0")
 	)
 	(segment
-		(start 210.6775 127.2225)
-		(end 210.6775 119.1775)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 1)
-		(uuid "a3bc3eab-bdd2-454e-aa5a-9ca7fc32791a")
-	)
-	(segment
 		(start 179.0925 125.75)
 		(end 180.8925 127.55)
 		(width 0.2)
 		(layer "F.Cu")
 		(net 1)
 		(uuid "af05b520-f072-4e29-b9c1-2962e3383569")
-	)
-	(segment
-		(start 210.35 127.55)
-		(end 210.6775 127.2225)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 1)
-		(uuid "b4948bd1-1539-49e8-b5d0-9ea91b4262ad")
 	)
 	(segment
 		(start 180.8925 127.55)
@@ -10146,20 +11633,52 @@
 		(uuid "bf639097-3294-47b2-a6ac-5b448363f128")
 	)
 	(segment
-		(start 206.7975 127.55)
-		(end 210.35 127.55)
+		(start 207.0358 70.0024)
+		(end 207.0542 69.984)
 		(width 0.2)
 		(layer "F.Cu")
 		(net 1)
-		(uuid "c18965d9-fd3e-4806-8729-9db279f90358")
+		(uuid "c1f663c9-859a-49e4-8a87-024bbeceff47")
 	)
 	(segment
-		(start 204.5 128)
-		(end 204.5 126.2475)
+		(start 208.71 114.984)
+		(end 211.5312 117.8052)
 		(width 0.2)
 		(layer "F.Cu")
 		(net 1)
-		(uuid "dfe945eb-5d51-4557-bb53-df3a1c5dcb02")
+		(uuid "cf887ba2-d4ea-4061-9fa8-f8acab612153")
+	)
+	(segment
+		(start 206.9592 128.0668)
+		(end 204.9975 126.1051)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 1)
+		(uuid "d821ea0c-9dbd-4397-a43e-e054ac8f2020")
+	)
+	(segment
+		(start 211.5312 117.8052)
+		(end 211.5312 127.7112)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 1)
+		(uuid "dde4721b-edb3-442f-8320-8118ed87fd40")
+	)
+	(segment
+		(start 192.045 127.45)
+		(end 192.595 128)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 1)
+		(uuid "dfe2871b-8f1f-4f0d-881d-0a3d5c04cb19")
+	)
+	(segment
+		(start 204.9975 126.8789)
+		(end 204.9975 125.75)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 1)
+		(uuid "ed3e1ae5-515a-4640-8d8f-3e8382ade620")
 	)
 	(segment
 		(start 207.0775 123.95)
@@ -10194,6 +11713,14 @@
 		(uuid "5ccc4658-ebe6-4372-a365-a7f6c6686593")
 	)
 	(segment
+		(start 181.095 70)
+		(end 181.1552 70)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 2)
+		(uuid "934c33bd-6d21-4882-bfab-7bd64d77e75a")
+	)
+	(segment
 		(start 181 63)
 		(end 181 123.7775)
 		(width 0.2)
@@ -10224,5 +11751,21 @@
 		(layer "F.Cu")
 		(net 2)
 		(uuid "cf5fbd2f-02eb-4d29-b85c-fa2c72ff5c2a")
+	)
+	(segment
+		(start 192.104 70.0024)
+		(end 181.0974 70.0024)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 2)
+		(uuid "d0c0b2d9-4e08-4160-948e-4a6beff1db43")
+	)
+	(segment
+		(start 181.0974 70.0024)
+		(end 181.095 70)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 2)
+		(uuid "fd1e5574-42bf-40a2-8ebe-b091586cf2c0")
 	)
 )
