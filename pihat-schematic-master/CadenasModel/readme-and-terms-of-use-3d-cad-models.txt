@@ -1,5 +1,5 @@
 ﻿
-EN   Your download at 02/01/2025 on PARTcommunity/PARTserver/3Dfindit.com:
+EN   Your download at 02/04/2025 on PARTcommunity/PARTserver/3Dfindit.com:
 
        Dear user,
        
@@ -7,7 +7,7 @@ EN   Your download at 02/01/2025 on PARTcommunity/PARTserver/3Dfindit.com:
 
        
 
-       STL, 2601-3114, 2601-3114.stl
+       STEP, 2601-3105, 2601-3105.stp
 	
        Information for use:
 

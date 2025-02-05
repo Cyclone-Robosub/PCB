@@ -1,4 +1,4 @@
-24414387511583090
+24419603899480255
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -98594,6 +98594,27 @@ Varistor VF
 0
 2
 2
+wago_terms
+CONN5_2601-3105_WAG
+
+2601-3105 
+0
+10
+10
+wago_terms
+CONN10_2601-1110_WAG
+
+2601-1110 
+0
+20
+20
+wago_terms
+CONN10_2601-3110_WAG
+
+2601-3110 
+0
+20
+20
 wago_terms
 CONN14_2601-3114_WAG
 

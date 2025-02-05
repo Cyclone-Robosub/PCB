@@ -524,7 +524,7 @@
 		(remove_unused_layers no)
 		(uuid "6fa42d0a-cc58-4dfd-abbe-2bce665d77ec")
 	)
-	(model "${KIPRJMOD}/ul_2601-3114/CadenasModel/2601-3114.stp"
+	(model "${KIPRJMOD}/Component-Files/CadenasModel/2601-3114.stp"
 		(offset
 			(xyz 46.5 -5 0)
 		)
