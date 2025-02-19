@@ -2261,7 +2261,7 @@
 			)
 		)
 		(property "Footprint" "wago_terms:CONN5_2601-3105_WAG"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "3e008d0f-1ec9-422a-b245-d59d86339055")
@@ -2273,7 +2273,7 @@
 			)
 		)
 		(property "Datasheet" "2601-3105"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "c6fbfdbc-5028-49b4-ba87-b9cf629a1712")
@@ -2285,7 +2285,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "a242412d-b150-482d-9259-e65ab29cbb93")
@@ -2688,7 +2688,7 @@
 			)
 		)
 		(property "Footprint" "wago_terms:CONN5_2601-3105_WAG"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "4093295b-a5ba-4f5c-89a7-8d1ac9106747")
@@ -2700,7 +2700,7 @@
 			)
 		)
 		(property "Datasheet" "2601-3105"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "b40bed52-cfd6-47e1-8d93-05d1738143be")
@@ -2712,7 +2712,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "d13235ee-6e35-4fd4-95a1-6c69978ffd6d")
@@ -6221,6 +6221,14 @@
 		(layer "F.Cu")
 		(net 27)
 		(uuid "eb630ad8-baf0-47fd-87ff-d435b62fe4a1")
+	)
+	(segment
+		(start 136.270101 75)
+		(end 135.695102 74.425001)
+		(width 0.25)
+		(layer "B.Cu")
+		(net 27)
+		(uuid "637465de-8d36-4c7b-97c5-c8f25ae05871")
 	)
 	(segment
 		(start 105.470096 84.150002)
